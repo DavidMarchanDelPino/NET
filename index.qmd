@@ -14,6 +14,7 @@ format:
 ---
 
 
+
 Use the quarto create project command to create a new project, using the prompt.
 
 Terminal

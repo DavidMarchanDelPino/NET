@@ -2,4 +2,7 @@
 title: "About"
 ---
 
-About this site
+Somos un equipo de programadores en proceso de creacion de un poyecto full stack basado en las tecnologias:
+
+- SSMS
+- .NET
