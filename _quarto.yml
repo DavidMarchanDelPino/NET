@@ -4,14 +4,18 @@ project:
 website:
   title: "NET"
   navbar:
+    background: info
+    search: true
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - ./documentation/documentation.qmd
+    
 
 format:
   html:
-    theme: cosmo
+    theme: darkly
     css: styles.css
     toc: true
 
