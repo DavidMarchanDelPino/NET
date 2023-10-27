@@ -7,10 +7,17 @@
     "text": "About this site"
   },
   {
+    "objectID": "documentation/documentation.html",
+    "href": "documentation/documentation.html",
+    "title": "Documentation",
+    "section": "",
+    "text": "Mockup"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "NET",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Use the quarto create project command to create a new project, using the prompt.\nTerminal quarto create project\nOutput ? Type ❯ default website blog manuscript book confluence\n\nrender project in current dir\nquarto render\n\n\nrender project in ‘myproject’\nquarto render myproject\nYou can also render only the files within a sub-directory of a project. For example, if the current directory contains a project with sub-directories tutorials, how-to, and articles, you can render just the contents of articles as follows:\nTerminal # render only documents in the ‘articles’ sub-directory quarto render articles\nNote that when rendering a project, command line arguments you pass to quarto render will be used for each file in the project. For example, this command will render only the PDF format:\nTerminal quarto render –to pdf quarto render myproject –to pdf"
   }
 ]
