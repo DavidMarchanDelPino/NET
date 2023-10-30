@@ -2,6 +2,31 @@
 title: "Documentation"
 
 ---
+## Basic Commands
+
+### Create
+Use the quarto create project command to create a new project, using the prompt.
+
+Terminal
+-- quarto create project
+
+Output
+ ? Type
+ ❯ default
+   website
+   blog
+   manuscript
+   book
+   confluence
+
+### Render
+render project in current dir
+
+-- quarto render 
+
+### Preview
+
+-- quarto preview
 
 # Mockup
 

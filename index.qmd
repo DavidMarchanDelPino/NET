@@ -1,5 +1,5 @@
 ---
-title: "NET"
+title: "Readme"
 format:
     html:
         toc: true
@@ -13,37 +13,17 @@ format:
      
 ---
 
+## Sobre el proyecto
+
+- Somos un equipo formado por programadores junior en busca de idear y desarrollar un producto en pos de obtener experiencia.
+
+- Este proyecto es colaborativo.
+
+## Tecnologias Usadas
+
+- .NET
+- SSMS
+- ...
 
 
-Use the quarto create project command to create a new project, using the prompt.
-
-Terminal
-quarto create project
-
-Output
- ? Type
- ❯ default
-   website
-   blog
-   manuscript
-   book
-   confluence
-
-# render project in current dir
-quarto render 
-
-# render project in 'myproject'
-quarto render myproject
-
-You can also render only the files within a sub-directory of a project. For example, if the current directory contains a project with sub-directories tutorials, how-to, and articles, you can render just the contents of articles as follows:
-
-Terminal
-# render only documents in the 'articles' sub-directory
-quarto render articles
-
-Note that when rendering a project, command line arguments you pass to quarto render will be used for each file in the project. For example, this command will render only the PDF format:
-
-Terminal
-quarto render --to pdf
-quarto render myproject --to pdf
 
