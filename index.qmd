@@ -25,6 +25,28 @@ format:
 - SSMS
 - ...
 
+Preparación del Proyecto final:
+
+. backlog i.e. funcionalidades
+
+. diseño general
+
+. dividir en fases/sprints
+
+. tareas
+
+. estimaciones
+
+. mockup del Front end + UX (usabilidad)
+
+. diseño de la BD
+
+. herramientas de gestión de proyecto 
+
+ 
+
+.Comentar proyectos en equipos
+
 ## Ilias
 Hola soy yo
 
