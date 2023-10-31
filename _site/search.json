@@ -18,7 +18,7 @@
     "href": "index.html#tecnologias-usadas",
     "title": "Readme",
     "section": "Tecnologias Usadas",
-    "text": "Tecnologias Usadas\n\n.NET\nSSMS\n…"
+    "text": "Tecnologias Usadas\n\n.NET\nSSMS\n…\n\n\nPreparación del Proyecto final:\n. backlog i.e. funcionalidades\n. diseño general\n. dividir en fases/sprints\n. tareas\n. estimaciones\n. mockup del Front end + UX (usabilidad)\n. diseño de la BD\n. herramientas de gestión de proyecto\n.Comentar proyectos en equipos"
   },
   {
     "objectID": "documentation/documentation.html",
@@ -40,5 +40,12 @@
     "title": "About",
     "section": "",
     "text": "Somos un equipo de programadores en proceso de creacion de un poyecto full stack basado en las tecnologias:\n\nSSMS\n.NET"
+  },
+  {
+    "objectID": "index.html#ilias",
+    "href": "index.html#ilias",
+    "title": "Readme",
+    "section": "Ilias",
+    "text": "Ilias\nHola soy yo"
   }
 ]
