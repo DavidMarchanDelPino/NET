@@ -2,18 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://daviddevops96.github.io/NET/index.html</loc>
-    <lastmod>2023-10-31T17:58:44.747Z</lastmod>
+    <lastmod>2023-11-09T12:44:20.254Z</lastmod>
   </url>
   <url>
     <loc>https://daviddevops96.github.io/NET/documentation/documentation.html</loc>
-    <lastmod>2023-10-31T17:58:43.665Z</lastmod>
+    <lastmod>2023-11-09T12:44:19.652Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daviddevops96.github.io/NET/Apartados/ToDo.html</loc>
+    <lastmod>2023-11-09T12:44:19.059Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daviddevops96.github.io/NET/Apartados/ProductBacklog.html</loc>
+    <lastmod>2023-11-09T12:44:18.420Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daviddevops96.github.io/NET/Apartados/GeneralDesign.html</loc>
+    <lastmod>2023-11-09T12:44:17.837Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daviddevops96.github.io/NET/Apartados/DB.html</loc>
+    <lastmod>2023-11-09T12:44:17.217Z</lastmod>
   </url>
   <url>
     <loc>https://daviddevops96.github.io/NET/about.html</loc>
-    <lastmod>2023-10-31T17:58:43.236Z</lastmod>
+    <lastmod>2023-11-09T12:44:16.906Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daviddevops96.github.io/NET/Apartados/Estimations.html</loc>
+    <lastmod>2023-11-09T12:44:17.532Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daviddevops96.github.io/NET/Apartados/MockUp.html</loc>
+    <lastmod>2023-11-09T12:44:18.122Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daviddevops96.github.io/NET/Apartados/Sprints.html</loc>
+    <lastmod>2023-11-09T12:44:18.766Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daviddevops96.github.io/NET/Apartados/Tools.html</loc>
+    <lastmod>2023-11-09T12:44:19.360Z</lastmod>
   </url>
   <url>
     <loc>https://daviddevops96.github.io/NET/documentation/mockup.html</loc>
-    <lastmod>2023-10-31T17:58:44.087Z</lastmod>
+    <lastmod>2023-11-09T12:44:19.930Z</lastmod>
   </url>
 </urlset>
