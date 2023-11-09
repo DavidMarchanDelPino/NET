@@ -94,6 +94,38 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./documentation/documentation.html" rel="" target="">
  <span class="menu-text">Documentation</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./Apartados/ProductBacklog.html" rel="" target="">
+ <span class="menu-text">Product Backlog</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./Apartados/GeneralDesign.html" rel="" target="">
+ <span class="menu-text">Diseño General</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./Apartados/Sprints.html" rel="" target="">
+ <span class="menu-text">Sprints</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./Apartados/Estimations.html" rel="" target="">
+ <span class="menu-text">Estimaciones</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./Apartados/ToDo.html" rel="" target="">
+ <span class="menu-text">ToDo</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./Apartados/MockUp.html" rel="" target="">
+ <span class="menu-text">Mockup</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./Apartados/DB.html" rel="" target="">
+ <span class="menu-text">Base de Datos</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./Apartados/Tools.html" rel="" target="">
+ <span class="menu-text">Herramientas</span></a>
+  </li>  
 </ul>
             <div class="quarto-navbar-tools ms-auto">
 </div>
@@ -118,26 +150,14 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#backlog-de-funcionalidades" id="toc-backlog-de-funcionalidades" class="nav-link" data-scroll-target="#backlog-de-funcionalidades">Backlog de Funcionalidades</a></li>
   <li><a href="#diseño-general" id="toc-diseño-general" class="nav-link" data-scroll-target="#diseño-general">Diseño General</a></li>
-  <li><a href="#división-en-fasessprints" id="toc-división-en-fasessprints" class="nav-link" data-scroll-target="#división-en-fasessprints">División en Fases/Sprints</a></li>
+  <li><a href="#estimaciones-y-tareas-por-sprint" id="toc-estimaciones-y-tareas-por-sprint" class="nav-link" data-scroll-target="#estimaciones-y-tareas-por-sprint">Estimaciones y Tareas por Sprint</a></li>
   <li><a href="#tareas" id="toc-tareas" class="nav-link" data-scroll-target="#tareas">Tareas</a></li>
-  </ul></li>
-  </ul></li>
-  <li><a href="#estimaciones-y-tareas-por-sprint" id="toc-estimaciones-y-tareas-por-sprint" class="nav-link" data-scroll-target="#estimaciones-y-tareas-por-sprint">Estimaciones y Tareas por Sprint</a>
-  <ul class="collapse">
-  <li><a href="#período-total-2-semanas-10-días-de-trabajo" id="toc-período-total-2-semanas-10-días-de-trabajo" class="nav-link" data-scroll-target="#período-total-2-semanas-10-días-de-trabajo">Período Total: 2 Semanas (10 Días de Trabajo)</a>
-  <ul class="collapse">
-  <li><a href="#sprint-1-días-1-3" id="toc-sprint-1-días-1-3" class="nav-link" data-scroll-target="#sprint-1-días-1-3">Sprint 1 (Días 1-3)</a></li>
-  <li><a href="#sprint-2-días-4-6" id="toc-sprint-2-días-4-6" class="nav-link" data-scroll-target="#sprint-2-días-4-6">Sprint 2 (Días 4-6)</a></li>
-  <li><a href="#sprint-3-días-7-9" id="toc-sprint-3-días-7-9" class="nav-link" data-scroll-target="#sprint-3-días-7-9">Sprint 3 (Días 7-9)</a></li>
-  <li><a href="#sprint-4-días-10-12" id="toc-sprint-4-días-10-12" class="nav-link" data-scroll-target="#sprint-4-días-10-12">Sprint 4 (Días 10-12)</a></li>
-  <li><a href="#sprint-5-días-13-15" id="toc-sprint-5-días-13-15" class="nav-link" data-scroll-target="#sprint-5-días-13-15">Sprint 5 (Días 13-15)</a></li>
   <li><a href="#mockup-del-front-end-ux-usabilidad" id="toc-mockup-del-front-end-ux-usabilidad" class="nav-link" data-scroll-target="#mockup-del-front-end-ux-usabilidad">Mockup del Front End + UX (Usabilidad)</a></li>
   <li><a href="#diseño-de-la-base-de-datos" id="toc-diseño-de-la-base-de-datos" class="nav-link" data-scroll-target="#diseño-de-la-base-de-datos">Diseño de la Base de Datos</a></li>
   <li><a href="#herramientas-de-gestión-de-proyecto" id="toc-herramientas-de-gestión-de-proyecto" class="nav-link" data-scroll-target="#herramientas-de-gestión-de-proyecto">Herramientas de Gestión de Proyecto</a></li>
   <li><a href="#comentar-proyectos-en-equipos" id="toc-comentar-proyectos-en-equipos" class="nav-link" data-scroll-target="#comentar-proyectos-en-equipos">Comentar Proyectos en Equipos</a></li>
   </ul></li>
   <li><a href="#notas-adicionales" id="toc-notas-adicionales" class="nav-link" data-scroll-target="#notas-adicionales">Notas Adicionales</a></li>
-  <li><a href="#ilias" id="toc-ilias" class="nav-link" data-scroll-target="#ilias">Ilias</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -186,124 +206,32 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="preparación-del-proyecto">Preparación del Proyecto</h2>
 <section id="backlog-de-funcionalidades" class="level3">
 <h3 class="anchored" data-anchor-id="backlog-de-funcionalidades">Backlog de Funcionalidades</h3>
-<ul>
-<li>Registro de usuarios</li>
-<li>Creación de perfiles de usuario</li>
-<li>Búsqueda de jugadores por preferencias</li>
-<li>Sistema de coincidencias (matchmaking)</li>
-<li>Mensajería entre usuarios</li>
-<li>Sistema de notificaciones</li>
-<li>Integración con redes sociales</li>
-<li>Configuración de perfil y preferencias</li>
-<li>Sistema de calificaciones y comentarios</li>
-</ul>
+<p><a href="./Apartados/ProductBacklog.html">Backlog</a></p>
 </section>
 <section id="diseño-general" class="level3">
 <h3 class="anchored" data-anchor-id="diseño-general">Diseño General</h3>
-<ul>
-<li>Paleta de colores: [Incluir aquí la paleta de colores]</li>
-<li>Tipografía: [Especificar la tipografía utilizada]</li>
-<li>Identidad visual: [Describir la identidad visual de la aplicación]</li>
-</ul>
+<p><a href="./Apartados/GeneralDesign.html">Diseño General</a></p>
 </section>
-<section id="división-en-fasessprints" class="level3">
-<h3 class="anchored" data-anchor-id="división-en-fasessprints">División en Fases/Sprints</h3>
-<ol type="1">
-<li>Fase de Registro y Perfiles de Usuario</li>
-<li>Fase de Búsqueda y Matchmaking</li>
-<li>Fase de Mensajería y Notificaciones</li>
-<li>Fase de Integración con Redes Sociales</li>
-<li>Fase de Calificaciones y Comentarios</li>
-</ol>
+<section id="estimaciones-y-tareas-por-sprint" class="level3">
+<h3 class="anchored" data-anchor-id="estimaciones-y-tareas-por-sprint">Estimaciones y Tareas por Sprint</h3>
+<p><a href="./Apartados/Sprints.html">Sprints</a></p>
+<p><a href="./Apartados/Estimations.html">Estimaciones</a></p>
 </section>
 <section id="tareas" class="level3">
 <h3 class="anchored" data-anchor-id="tareas">Tareas</h3>
-<ul>
-<li>Desarrollar el formulario de registro</li>
-<li>Diseñar la interfaz de perfiles de usuario</li>
-<li>Implementar el algoritmo de búsqueda y matchmaking</li>
-<li>Desarrollar el sistema de mensajería</li>
-<li>Configurar las notificaciones en tiempo real</li>
-<li>Integrar la autenticación con redes sociales</li>
-<li>Implementar el sistema de calificaciones y comentarios</li>
-</ul>
-</section>
-</section>
-</section>
-<section id="estimaciones-y-tareas-por-sprint" class="level1">
-<h1>Estimaciones y Tareas por Sprint</h1>
-<section id="período-total-2-semanas-10-días-de-trabajo" class="level2">
-<h2 class="anchored" data-anchor-id="período-total-2-semanas-10-días-de-trabajo">Período Total: 2 Semanas (10 Días de Trabajo)</h2>
-<section id="sprint-1-días-1-3" class="level3">
-<h3 class="anchored" data-anchor-id="sprint-1-días-1-3">Sprint 1 (Días 1-3)</h3>
-<ul>
-<li>Registro y Perfiles de Usuario</li>
-<li><strong>Día 1:</strong> Desarrollo del formulario de registro (8 horas)</li>
-<li><strong>Día 2:</strong> Diseño de la interfaz de perfiles de usuario (6 horas)</li>
-<li><strong>Día 3:</strong> Implementación de la funcionalidad de edición de perfil (8 horas)</li>
-</ul>
-</section>
-<section id="sprint-2-días-4-6" class="level3">
-<h3 class="anchored" data-anchor-id="sprint-2-días-4-6">Sprint 2 (Días 4-6)</h3>
-<ul>
-<li>Búsqueda y Matchmaking</li>
-<li><strong>Día 4:</strong> Implementación del algoritmo de búsqueda y matchmaking (10 horas)</li>
-<li><strong>Día 5:</strong> Desarrollo de la función de ver perfiles de otros jugadores (6 horas)</li>
-<li><strong>Día 6:</strong> Optimización del algoritmo de matchmaking (8 horas)</li>
-</ul>
-</section>
-<section id="sprint-3-días-7-9" class="level3">
-<h3 class="anchored" data-anchor-id="sprint-3-días-7-9">Sprint 3 (Días 7-9)</h3>
-<ul>
-<li>Mensajería y Notificaciones</li>
-<li><strong>Día 7:</strong> Desarrollo del sistema de mensajería (8 horas)</li>
-<li><strong>Día 8:</strong> Configuración de las notificaciones en tiempo real (6 horas)</li>
-<li><strong>Día 9:</strong> Diseño de la interfaz de notificaciones (4 horas)</li>
-</ul>
-</section>
-<section id="sprint-4-días-10-12" class="level3">
-<h3 class="anchored" data-anchor-id="sprint-4-días-10-12">Sprint 4 (Días 10-12)</h3>
-<ul>
-<li>Integración con Redes Sociales</li>
-<li><strong>Día 10:</strong> Integración de la autenticación con redes sociales (8 horas)</li>
-<li><strong>Día 11:</strong> Compartir actividad en redes sociales (6 horas)</li>
-<li><strong>Día 12:</strong> Configuración de opciones de privacidad (6 horas)</li>
-</ul>
-</section>
-<section id="sprint-5-días-13-15" class="level3">
-<h3 class="anchored" data-anchor-id="sprint-5-días-13-15">Sprint 5 (Días 13-15)</h3>
-<ul>
-<li>Calificaciones y Comentarios</li>
-<li><strong>Día 13:</strong> Implementación del sistema de calificaciones y comentarios (10 horas)</li>
-<li><strong>Día 14:</strong> Diseño de la interfaz de comentarios (6 horas)</li>
-<li><strong>Día 15:</strong> Pruebas finales y ajustes (8 horas)</li>
-</ul>
+<p><a href="./Apartados/ToDo.html">Tareas</a></p>
 </section>
 <section id="mockup-del-front-end-ux-usabilidad" class="level3">
 <h3 class="anchored" data-anchor-id="mockup-del-front-end-ux-usabilidad">Mockup del Front End + UX (Usabilidad)</h3>
-<ul>
-<li>[Adjuntar aquí los mockups de las interfaces de usuario]</li>
-</ul>
+<p><a href="./Apartados/MockUp.html">Mockup</a></p>
 </section>
 <section id="diseño-de-la-base-de-datos" class="level3">
 <h3 class="anchored" data-anchor-id="diseño-de-la-base-de-datos">Diseño de la Base de Datos</h3>
-<ul>
-<li>Tabla de Usuarios</li>
-<li>Tabla de Perfiles</li>
-<li>Tabla de Preferencias de Juego</li>
-<li>Tabla de Coincidencias</li>
-<li>Tabla de Mensajes</li>
-<li>Tabla de Notificaciones</li>
-<li>Tabla de Comentarios y Calificaciones</li>
-</ul>
+<p><a href="./Apartados/DB.html">DB</a></p>
 </section>
 <section id="herramientas-de-gestión-de-proyecto" class="level3">
 <h3 class="anchored" data-anchor-id="herramientas-de-gestión-de-proyecto">Herramientas de Gestión de Proyecto</h3>
-<ul>
-<li>Trello para la gestión de tareas</li>
-<li>Slack para la comunicación en equipo</li>
-<li>GitHub para el control de versiones</li>
-</ul>
+<p><a href="./Apartados/Tools.html">Herramientas</a></p>
 </section>
 <section id="comentar-proyectos-en-equipos" class="level3">
 <h3 class="anchored" data-anchor-id="comentar-proyectos-en-equipos">Comentar Proyectos en Equipos</h3>
@@ -319,10 +247,6 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li>Agregar cualquier nota adicional o información relevante que sea importante para el proyecto.</li>
 </ul>
-</section>
-<section id="ilias" class="level2">
-<h2 class="anchored" data-anchor-id="ilias">Ilias</h2>
-<p>Hola soy yo</p>
 
 
 </section>

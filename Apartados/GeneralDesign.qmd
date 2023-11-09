@@ -1,0 +1,9 @@
+---
+title: "Diseño General"
+
+---
+
+### Diseño General
+- Paleta de colores: [Incluir aquí la paleta de colores]
+- Tipografía: [Especificar la tipografía utilizada]
+- Identidad visual: [Describir la identidad visual de la aplicación]

@@ -1,0 +1,7 @@
+---
+title: "Mockup"
+
+---
+
+### Mockup del Front End + UX (Usabilidad)
+- [Adjuntar aquí los mockups de las interfaces de usuario]

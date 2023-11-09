@@ -11,7 +11,15 @@ website:
         text: Home
       - about.qmd
       - ./documentation/documentation.qmd
-    
+      - ./Apartados/ProductBacklog.qmd
+      - ./Apartados/GeneralDesign.qmd
+      - ./Apartados/Sprints.qmd
+      - ./Apartados/Estimations.qmd
+      - ./Apartados/ToDo.qmd
+      - ./Apartados/MockUp.qmd
+      - ./Apartados/DB.qmd
+      - ./Apartados/Tools.qmd
+      
 
 format:
   html:

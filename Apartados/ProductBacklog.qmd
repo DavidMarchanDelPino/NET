@@ -1,0 +1,15 @@
+---
+title: "Product Backlog"
+
+---
+
+### Backlog de Funcionalidades
+- Registro de usuarios
+- Creación de perfiles de usuario
+- Búsqueda de jugadores por preferencias
+- Sistema de coincidencias (matchmaking)
+- Mensajería entre usuarios
+- Sistema de notificaciones
+- Integración con redes sociales
+- Configuración de perfil y preferencias
+- Sistema de calificaciones y comentarios

@@ -1,0 +1,13 @@
+---
+title: "Base de Datos"
+
+---
+
+### Diseño de la Base de Datos
+- Tabla de Usuarios
+- Tabla de Perfiles
+- Tabla de Preferencias de Juego
+- Tabla de Coincidencias
+- Tabla de Mensajes
+- Tabla de Notificaciones
+- Tabla de Comentarios y Calificaciones

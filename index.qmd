@@ -32,88 +32,28 @@ format:
 ## Preparación del Proyecto
 
 ### Backlog de Funcionalidades
-- Registro de usuarios
-- Creación de perfiles de usuario
-- Búsqueda de jugadores por preferencias
-- Sistema de coincidencias (matchmaking)
-- Mensajería entre usuarios
-- Sistema de notificaciones
-- Integración con redes sociales
-- Configuración de perfil y preferencias
-- Sistema de calificaciones y comentarios
+[Backlog](./Apartados/ProductBacklog.qmd)
+
 
 ### Diseño General
-- Paleta de colores: [Incluir aquí la paleta de colores]
-- Tipografía: [Especificar la tipografía utilizada]
-- Identidad visual: [Describir la identidad visual de la aplicación]
+[Diseño General](./Apartados/GeneralDesign.qmd)
 
-### División en Fases/Sprints
-1. Fase de Registro y Perfiles de Usuario
-2. Fase de Búsqueda y Matchmaking
-3. Fase de Mensajería y Notificaciones
-4. Fase de Integración con Redes Sociales
-5. Fase de Calificaciones y Comentarios
+### Estimaciones y Tareas por Sprint
+[Sprints](./Apartados/Sprints.qmd)
+
+[Estimaciones](./Apartados/Estimations.qmd)
 
 ### Tareas
-- Desarrollar el formulario de registro
-- Diseñar la interfaz de perfiles de usuario
-- Implementar el algoritmo de búsqueda y matchmaking
-- Desarrollar el sistema de mensajería
-- Configurar las notificaciones en tiempo real
-- Integrar la autenticación con redes sociales
-- Implementar el sistema de calificaciones y comentarios
-
-# Estimaciones y Tareas por Sprint
-
-## Período Total: 2 Semanas (10 Días de Trabajo)
-
-### Sprint 1 (Días 1-3) 
-- Registro y Perfiles de Usuario
-- **Día 1:** Desarrollo del formulario de registro (8 horas)
-- **Día 2:** Diseño de la interfaz de perfiles de usuario (6 horas)
-- **Día 3:** Implementación de la funcionalidad de edición de perfil (8 horas)
-
-### Sprint 2 (Días 4-6) 
-- Búsqueda y Matchmaking
-- **Día 4:** Implementación del algoritmo de búsqueda y matchmaking (10 horas)
-- **Día 5:** Desarrollo de la función de ver perfiles de otros jugadores (6 horas)
-- **Día 6:** Optimización del algoritmo de matchmaking (8 horas)
-
-### Sprint 3 (Días 7-9) 
-- Mensajería y Notificaciones
-- **Día 7:** Desarrollo del sistema de mensajería (8 horas)
-- **Día 8:** Configuración de las notificaciones en tiempo real (6 horas)
-- **Día 9:** Diseño de la interfaz de notificaciones (4 horas)
-
-### Sprint 4 (Días 10-12) 
-- Integración con Redes Sociales
-- **Día 10:** Integración de la autenticación con redes sociales (8 horas)
-- **Día 11:** Compartir actividad en redes sociales (6 horas)
-- **Día 12:** Configuración de opciones de privacidad (6 horas)
-
-### Sprint 5 (Días 13-15) 
-- Calificaciones y Comentarios
-- **Día 13:** Implementación del sistema de calificaciones y comentarios (10 horas)
-- **Día 14:** Diseño de la interfaz de comentarios (6 horas)
-- **Día 15:** Pruebas finales y ajustes (8 horas)
-
+[Tareas](./Apartados/ToDo.qmd)
 
 ### Mockup del Front End + UX (Usabilidad)
-- [Adjuntar aquí los mockups de las interfaces de usuario]
+[Mockup](./Apartados/MockUp.qmd)
 
 ### Diseño de la Base de Datos
-- Tabla de Usuarios
-- Tabla de Perfiles
-- Tabla de Preferencias de Juego
-- Tabla de Coincidencias
-- Tabla de Mensajes
-- Tabla de Notificaciones
-- Tabla de Comentarios y Calificaciones
+[DB](./Apartados/DB.qmd)
 
 ### Herramientas de Gestión de Proyecto
-- Trello para la gestión de tareas
-- Slack para la comunicación en equipo
-- GitHub para el control de versiones
+[Herramientas](./Apartados/Tools.qmd)
 
 ### Comentar Proyectos en Equipos
 - Reuniones semanales para seguimiento del proyecto
@@ -123,8 +63,5 @@ format:
 ## Notas Adicionales
 - Agregar cualquier nota adicional o información relevante que sea importante para el proyecto.
 
-
-## Ilias
-Hola soy yo
 
 

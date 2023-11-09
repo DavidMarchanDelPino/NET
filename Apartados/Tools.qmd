@@ -1,0 +1,9 @@
+---
+title: "Herramientas"
+
+---
+
+### Herramientas de Gestión de Proyecto
+- Trello para la gestión de tareas
+- Slack para la comunicación en equipo
+- GitHub para el control de versiones

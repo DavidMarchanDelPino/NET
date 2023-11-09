@@ -1,0 +1,13 @@
+---
+title: "ToDo"
+
+---
+
+### Tareas
+- Desarrollar el formulario de registro
+- Diseñar la interfaz de perfiles de usuario
+- Implementar el algoritmo de búsqueda y matchmaking
+- Desarrollar el sistema de mensajería
+- Configurar las notificaciones en tiempo real
+- Integrar la autenticación con redes sociales
+- Implementar el sistema de calificaciones y comentarios
