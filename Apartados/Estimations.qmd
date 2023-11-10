@@ -11,23 +11,85 @@ title: "Estimaciones"
     <thead>
       <tr>
         <th>Tarea</th>
-        <th>Primera Aproximación en h</th>
-        <th>Segunda Aproximación en h</th>
-        <th>Horas Totales Finales</th>
+        <th>Estimación Eric</th>
+        <th>Estimación Ilias</th>
+        <th>Estimación Guillermo</th>
+        <th>Estimación Denis</th>
+        <th>Estimación David</th>
+        <th>Estimación Grupo</th>
+        <th>Horas Invertidas</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>Dato 1</td>
-        <td>Dato 2</td>
-        <td>Dato 3</td>
-        <td>Dato 4</td>
+        <td>TaskName1</td>
+        <td>ValEric</td>
+        <td>ValIlias</td>
+        <td>ValGuillermo</td>
+        <td>ValDenis</td>
+        <td>ValDavid</td>
+        <td>ValGrupo</td>
+        <td>FinalHours</td>
       </tr>
       <tr>
-        <td>Dato 4</td>
-        <td>Dato 5</td>
-        <td>Dato 6</td>
-        <td>Dato 7</td>
+        <td>TaskName2</td>
+        <td>ValEric</td>
+        <td>ValIlias</td>
+        <td>ValGuillermo</td>
+        <td>ValDenis</td>
+        <td>ValDavid</td>
+        <td>ValGrupo</td>
+        <td>FinalHours</td>
+      </tr>
+      <tr>
+        <td>TaskName3</td>
+        <td>ValEric</td>
+        <td>ValIlias</td>
+        <td>ValGuillermo</td>
+        <td>ValDenis</td>
+        <td>ValDavid</td>
+        <td>ValGrupo</td>
+        <td>FinalHours</td>
+      </tr>
+      <tr>
+        <td>TaskName4</td>
+        <td>ValEric</td>
+        <td>ValIlias</td>
+        <td>ValGuillermo</td>
+        <td>ValDenis</td>
+        <td>ValDavid</td>
+        <td>ValGrupo</td>
+        <td>FinalHours</td>
+      </tr>
+      <tr>
+        <td>TaskName5</td>
+        <td>ValEric</td>
+        <td>ValIlias</td>
+        <td>ValGuillermo</td>
+        <td>ValDenis</td>
+        <td>ValDavid</td>
+        <td>ValGrupo</td>
+        <td>FinalHours</td>
+      </tr>
+      <tr>
+        <td>TaskName6</td>
+        <td>ValEric</td>
+        <td>ValIlias</td>
+        <td>ValGuillermo</td>
+        <td>ValDenis</td>
+        <td>ValDavid</td>
+        <td>ValGrupo</td>
+        <td>FinalHours</td>
+      </tr>
+      <tr>
+        <td>TaskName7</td>
+        <td>ValEric</td>
+        <td>ValIlias</td>
+        <td>ValGuillermo</td>
+        <td>ValDenis</td>
+        <td>ValDavid</td>
+        <td>ValGrupo</td>
+        <td>FinalHours</td>
       </tr>
       <!-- Agrega más filas según sea necesario -->
     </tbody>

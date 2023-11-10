@@ -5,6 +5,8 @@ title: "Product Backlog"
 
 ### Backlog de Funcionalidades
 
+Pendiente: Implementar tras hacer el mockup
+
 [Kanban](https://github.com/users/daviddevops96/#projects/1)
 
 - Registro de usuarios:
