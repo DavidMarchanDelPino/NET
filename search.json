@@ -60,7 +60,7 @@
     "href": "Apartados/ProductBacklog.html",
     "title": "Product Backlog",
     "section": "",
-    "text": "Backlog de Funcionalidades\n\nRegistro de usuarios\nCreación de perfiles de usuario\nBúsqueda de jugadores por preferencias\nSistema de coincidencias (matchmaking)\nMensajería entre usuarios\nSistema de notificaciones\nIntegración con redes sociales\nConfiguración de perfil y preferencias\nSistema de calificaciones y comentarios"
+    "text": "Backlog de Funcionalidades\nKanban\n\nRegistro de usuarios: . userId, userName, Pass, email, nickName, posicion, rango, region, Comentarios(Toxico, MalJugador, BuenJugador, Recomendado), Media(a partir de Comentarios)\n\nSe puede modificar a nivel de usuario sus valores\nUn usuario se puede dar de baja con un botón\n\nSistema de recuperación de contraseña a partir de email\nEl menú principal está formado por 5 Carview Recientes pero desaparecen cuando se rellenan, se mantiene a nivel de usuario\nEl menú tiene filtros de tipo de carview, posicion, Rango, TipoPartida y se actualiza en función de estos\nChat a nivel de cardview de grupo\nCrear Modelo base de Datos e implementarlo\nCarview Especial de Torneos ( con selección de torneos)\nCreación de CarView de Grupo, tiene posicion, Rango, TipoPartida(partidas de LoL)"
   },
   {
     "objectID": "Apartados/GeneralDesign.html",
