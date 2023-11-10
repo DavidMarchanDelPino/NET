@@ -28,25 +28,11 @@
     "text": "Preparación del Proyecto\n\nBacklog de Funcionalidades\nBacklog\n\n\nDiseño General\nDiseño General\n\n\nEstimaciones y Tareas por Sprint\nSprints\nEstimaciones\n\n\nTareas\nTareas\n\n\nMockup del Front End + UX (Usabilidad)\nMockup\n\n\nDiseño de la Base de Datos\nDB\n\n\nHerramientas de Gestión de Proyecto\nHerramientas\n\n\nComentar Proyectos en Equipos\n\nReuniones semanales para seguimiento del proyecto\nComunicación a través de Slack\nAsignación de tareas y responsabilidades en Trello"
   },
   {
-    "objectID": "index.html#período-total-2-semanas-10-días-de-trabajo",
-    "href": "index.html#período-total-2-semanas-10-días-de-trabajo",
-    "title": "Readme",
-    "section": "Período Total: 2 Semanas (10 Días de Trabajo)",
-    "text": "Período Total: 2 Semanas (10 Días de Trabajo)\n\nSprint 1 (Días 1-3)\n\nRegistro y Perfiles de Usuario\nDía 1: Desarrollo del formulario de registro (8 horas)\nDía 2: Diseño de la interfaz de perfiles de usuario (6 horas)\nDía 3: Implementación de la funcionalidad de edición de perfil (8 horas)\n\n\n\nSprint 2 (Días 4-6)\n\nBúsqueda y Matchmaking\nDía 4: Implementación del algoritmo de búsqueda y matchmaking (10 horas)\nDía 5: Desarrollo de la función de ver perfiles de otros jugadores (6 horas)\nDía 6: Optimización del algoritmo de matchmaking (8 horas)\n\n\n\nSprint 3 (Días 7-9)\n\nMensajería y Notificaciones\nDía 7: Desarrollo del sistema de mensajería (8 horas)\nDía 8: Configuración de las notificaciones en tiempo real (6 horas)\nDía 9: Diseño de la interfaz de notificaciones (4 horas)\n\n\n\nSprint 4 (Días 10-12)\n\nIntegración con Redes Sociales\nDía 10: Integración de la autenticación con redes sociales (8 horas)\nDía 11: Compartir actividad en redes sociales (6 horas)\nDía 12: Configuración de opciones de privacidad (6 horas)\n\n\n\nSprint 5 (Días 13-15)\n\nCalificaciones y Comentarios\nDía 13: Implementación del sistema de calificaciones y comentarios (10 horas)\nDía 14: Diseño de la interfaz de comentarios (6 horas)\nDía 15: Pruebas finales y ajustes (8 horas)\n\n\n\nTareas\n\nDesarrollar el formulario de registro\nDiseñar la interfaz de perfiles de usuario\nImplementar el algoritmo de búsqueda y matchmaking\nDesarrollar el sistema de mensajería\nConfigurar las notificaciones en tiempo real\nIntegrar la autenticación con redes sociales\nImplementar el sistema de calificaciones y comentarios\n\n\n\nMockup del Front End + UX (Usabilidad)\n\n[Adjuntar aquí los mockups de las interfaces de usuario]\n\n\n\nDiseño de la Base de Datos\n\nTabla de Usuarios\nTabla de Perfiles\nTabla de Preferencias de Juego\nTabla de Coincidencias\nTabla de Mensajes\nTabla de Notificaciones\nTabla de Comentarios y Calificaciones\n\n\n\nHerramientas de Gestión de Proyecto\n\nTrello para la gestión de tareas\nSlack para la comunicación en equipo\nGitHub para el control de versiones\n\n\n\nComentar Proyectos en Equipos\n\nReuniones semanales para seguimiento del proyecto\nComunicación a través de Slack\nAsignación de tareas y responsabilidades en Trello"
-  },
-  {
     "objectID": "index.html#notas-adicionales",
     "href": "index.html#notas-adicionales",
     "title": "Readme",
     "section": "Notas Adicionales",
     "text": "Notas Adicionales\n\nAgregar cualquier nota adicional o información relevante que sea importante para el proyecto."
-  },
-  {
-    "objectID": "index.html#ilias",
-    "href": "index.html#ilias",
-    "title": "Readme",
-    "section": "Ilias",
-    "text": "Ilias\nHola soy yo"
   },
   {
     "objectID": "documentation/documentation.html",
@@ -63,18 +49,39 @@
     "text": "Use the quarto create project command to create a new project, using the prompt.\nTerminal – quarto create project\nOutput ? Type ❯ default website blog manuscript book confluence\n\n\n\nrender project in current dir\n– quarto render\n\n\n\n– quarto preview"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "Apartados/ToDo.html",
+    "href": "Apartados/ToDo.html",
+    "title": "ToDo",
     "section": "",
-    "text": "Somos un equipo de programadores en proceso de creacion de un poyecto full stack basado en las tecnologias:\n\nSSMS\n.NET"
+    "text": "Tareas\n\nDesarrollar el formulario de registro\nDiseñar la interfaz de perfiles de usuario\nImplementar el algoritmo de búsqueda y matchmaking\nDesarrollar el sistema de mensajería\nConfigurar las notificaciones en tiempo real\nIntegrar la autenticación con redes sociales\nImplementar el sistema de calificaciones y comentarios"
   },
   {
     "objectID": "Apartados/ProductBacklog.html",
     "href": "Apartados/ProductBacklog.html",
     "title": "Product Backlog",
     "section": "",
-    "text": "Backlog de Funcionalidades\n\nRegistro de usuarios\nCreación de perfiles de usuario\nBúsqueda de jugadores por preferencias\nSistema de coincidencias (matchmaking)\nMensajería entre usuarios\nSistema de notificaciones\nIntegración con redes sociales\nConfiguración de perfil y preferencias\nSistema de calificaciones y comentarios"
+    "text": "Backlog de Funcionalidades\nKanban\n\nRegistro de usuarios: . userId, userName, Pass, email, nickName, posicion, rango, region, Comentarios(Toxico, MalJugador, BuenJugador, Recomendado), Media(a partir de Comentarios)\n\nSe puede modificar a nivel de usuario sus valores\nUn usuario se puede dar de baja con un botón\n\nSistema de recuperación de contraseña a partir de email\nEl menú principal está formado por 5 Carview Recientes pero desaparecen cuando se rellenan, se mantiene a nivel de usuario\nEl menú tiene filtros de tipo de carview, posicion, Rango, TipoPartida y se actualiza en función de estos\nChat a nivel de cardview de grupo\nCrear Modelo base de Datos e implementarlo\nCarview Especial de Torneos ( con selección de torneos)\nCreación de CarView de Grupo, tiene posicion, Rango, TipoPartida(partidas de LoL)"
+  },
+  {
+    "objectID": "Apartados/GeneralDesign.html",
+    "href": "Apartados/GeneralDesign.html",
+    "title": "Diseño General",
+    "section": "",
+    "text": "Diseño General\n\nPaleta de colores: [Incluir aquí la paleta de colores]\nTipografía: [Especificar la tipografía utilizada]\nIdentidad visual: [Describir la identidad visual de la aplicación]"
+  },
+  {
+    "objectID": "Apartados/DB.html",
+    "href": "Apartados/DB.html",
+    "title": "Base de Datos",
+    "section": "",
+    "text": "Diseño de la Base de Datos\n\nTabla de Usuarios\nTabla de Perfiles\nTabla de Preferencias de Juego\nTabla de Coincidencias\nTabla de Mensajes\nTabla de Notificaciones\nTabla de Comentarios y Calificaciones"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Somos un equipo de programadores en proceso de creacion de un poyecto full stack basado en las tecnologias:\n\nSSMS\n.NET"
   },
   {
     "objectID": "Apartados/Estimations.html",
@@ -89,6 +96,13 @@
     "title": "Estimaciones",
     "section": "",
     "text": "Tarea\n\n\nPrimera Aproximación en h\n\n\nSegunda Aproximación en h\n\n\nHoras Totales Finales\n\n\n\n\n\n\nDato 1\n\n\nDato 2\n\n\nDato 3\n\n\nDato 4\n\n\n\n\nDato 4\n\n\nDato 5\n\n\nDato 6\n\n\nDato 7"
+  },
+  {
+    "objectID": "Apartados/MockUp.html",
+    "href": "Apartados/MockUp.html",
+    "title": "Mockup",
+    "section": "",
+    "text": "Mockup del Front End + UX (Usabilidad)\n\n[Adjuntar aquí los mockups de las interfaces de usuario]"
   },
   {
     "objectID": "Apartados/Sprints.html",
@@ -110,12 +124,5 @@
     "title": "Herramientas",
     "section": "",
     "text": "Herramientas de Gestión de Proyecto\n\nTrello para la gestión de tareas\nSlack para la comunicación en equipo\nGitHub para el control de versiones"
-  },
-  {
-    "objectID": "Apartados/GeneralDesign.html",
-    "href": "Apartados/GeneralDesign.html",
-    "title": "Diseño General",
-    "section": "",
-    "text": "Diseño General\n\nPaleta de colores: [Incluir aquí la paleta de colores]\nTipografía: [Especificar la tipografía utilizada]\nIdentidad visual: [Describir la identidad visual de la aplicación]"
   }
 ]

@@ -4,12 +4,18 @@ title: "Product Backlog"
 ---
 
 ### Backlog de Funcionalidades
-- Registro de usuarios
-- Creación de perfiles de usuario
-- Búsqueda de jugadores por preferencias
-- Sistema de coincidencias (matchmaking)
-- Mensajería entre usuarios
-- Sistema de notificaciones
-- Integración con redes sociales
-- Configuración de perfil y preferencias
-- Sistema de calificaciones y comentarios
+
+[Kanban](https://github.com/users/daviddevops96/#projects/1)
+
+- Registro de usuarios:
+    . userId, userName, Pass, email, nickName, posicion, rango, region, Comentarios(Toxico, MalJugador, BuenJugador, Recomendado), Media(a partir de Comentarios)  
+    * Se puede modificar a nivel de usuario sus valores
+    * Un usuario se puede dar de baja con un botón
+- Sistema de recuperación de contraseña a partir de email
+- El menú principal está formado por  5 Carview Recientes pero desaparecen cuando se rellenan, se mantiene  a nivel de usuario
+- El menú tiene filtros de tipo de carview, posicion, Rango, TipoPartida y se actualiza en función de estos
+- Chat a nivel de cardview de grupo
+- Crear Modelo base de Datos e implementarlo
+- Carview Especial de Torneos ( con selección de torneos)
+- Creación de CarView de Grupo, tiene posicion, Rango, TipoPartida(partidas de LoL)
+
