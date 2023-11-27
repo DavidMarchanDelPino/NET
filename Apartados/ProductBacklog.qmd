@@ -7,17 +7,65 @@ title: "Product Backlog"
 
 Pendiente: Implementar tras hacer el mockup
 
-[Kanban](https://github.com/users/daviddevops96/#projects/1)
+[Kanban](https://trello.com/invite/proyectonet7/ATTIdce9637dca56461fe888b4a037f92662532B62B0)
 
-- Registro de usuarios:
-    . userId, userName, Pass, email, nickName, posicion, rango, region, Comentarios(Toxico, MalJugador, BuenJugador, Recomendado), Media(a partir de Comentarios)  
-    * Se puede modificar a nivel de usuario sus valores
-    * Un usuario se puede dar de baja con un botón
-- Sistema de recuperación de contraseña a partir de email
-- El menú principal está formado por  5 Cardview Recientes pero desaparecen cuando se rellenan, se mantiene  a nivel de usuario
-- El menú tiene filtros de tipo de cardview, posicion, Rango, TipoPartida y se actualiza en función de estos
-- Chat a nivel de cardview de grupo
-- Crear Modelo base de Datos e implementarlo
-- Cardview Especial de Torneos ( con selección de torneos)
-- Creación de CardView de Grupo, tiene posicion, Rango, TipoPartida(partidas de LoL)
+Nombre del proyecto: SummonerMatch
+
+Descripción: Una plataforma que permite a los jugadores crear o unirse a partidas del lol.(League Of Legends).
+
+Propósito: Que cualquier jugador pueda jugar con otras personas con el fin de mejorar su experiencia de juego
+
+User Stories
+    - Descripciones breves de las funcionalidades desde la perspectiva del usuario. Siguen el formato: 
+        - "Como [tipo de usuario], quiero [realizar alguna acción] para [lograr un objetivo]."
+    
+Tareas
+    - Desglose detallado de las acciones necesarias para completar las User Stories.
+
+Bugs o Problemas
+    - Errores o problemas identificados que necesitan ser corregidos.
+
+--Ingreso y Registro:
+
+En el menu del header un boton para registrarme o iniciar sesión  para poder crear partidas para que otras personas se unan o buscar partidas a las que unirme. Esto abrirá un modal de registro.
+Como usuario, quiero registrarme con la siguiente información: userName, Pass, email, nickName, posicion(opcional), rango(opcional), regionServidor  Imagen (opcional).
+Como usuario registrado, deseo poder modificar mis detalles, incluyendo userName, Pass, email, nickName, posicion, rango, y regionServidor.
+Como usuario registrado, quiero tener la opción de darme de baja de la plataforma mediante un botón(igual que GitHub).
+En caso de olvidar la contraseña, recuperar cuenta
+Quiero poder desconectarme (boton cerrar sesion) de mi cuenta de usuario.
+
+
+--Interfaz Principal:
+
+El menú principal estará inicialmente formado por (X) Cardview Recientes, que desaparecerán a medida que se llenen. Esta personalización se mantendrá a nivel de usuario.
+
+En caso de tener la sesión iniciada:
+Como usuario, quiero que cada tarjeta (CARD) sea seleccionable, llevándome a una página con detalles adicionales y la opción de unirme.
+Tener acceso al perfil de usuario  al hacer clic en mi foto de perfil
+Crear una partida (Tiempo límite desde creación 20mins)
+En caso de no haber iniciado sesión:
+Poder acceder a las partidas (CARD) pero no poder unirte a ellas
+En vez de qué aparezca la opción del acceso al usuario, 2 botones (iniciar sesión, registrarse)
+Bloque qué muestre una breve explicación de la plataforma.
+Filtrar estas partidas (Cantidad jugadores [mayor, menor], rango, región).
+
+Y en la parte superior tener un botón para redireccionar a la búsqueda de usuarios.
+
+-- CARD PARTIDA e Interacción:
+
+Vida de 20 minutos
+En la página de partidas (CARDS) a los que estoy inscrito, quiero tener la opción de abandonar un grupo a través de un botón específico.
+También, deseo contar con un chat para interactuar con los miembros del grupo.
+Una partida (CARD) (Fuera) contiene información como posiciones, rango de la partida, tipo de partida.
+Una partida (Dentro) contiene información como posiciones, rango de la partida, tipo de partida (por ejemplo, partidas de LoL), usuarios, botón chat, botón Abandonar Partida si soy miembro, si soy OWNER botón disolver partida.
+Consultas a la API de LoL para hacer la validación del ganador
+
+-- CARD TORNEO e Interacción:(mismas especificaciones de Partida)
+
+Los torneos los crea el administrador manualmente (Hora y Dia)
+Mínimo 4 equipos por torneo
+Tiempo de inscripción de 3h
+Los cierra el administrador
+
+
 
