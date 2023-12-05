@@ -8,7 +8,7 @@ title: "Base de Datos"
 ![Initial DDBB Diagram 05/12/2023](../img/DiagramDDBB.jpeg)
 
 
-Database Creation Script
+### Database Creation Script
 
   This script creates tables for the SummonerMatch database, including:
   - Equipo
