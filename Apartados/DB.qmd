@@ -4,10 +4,6 @@ title: "Base de Datos"
 ---
 
 ### Diseño de la Base de Datos
-- Tabla de Usuarios
-- Tabla de Perfiles
-- Tabla de Preferencias de Juego
-- Tabla de Coincidencias
-- Tabla de Mensajes
-- Tabla de Notificaciones
-- Tabla de Comentarios y Calificaciones
+
+![Initial DDBB Diagram 05/12/2023](../img/DiagramDDBB.jpeg)
+
