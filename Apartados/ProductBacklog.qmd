@@ -14,11 +14,10 @@ Pendiente: Implementar tras hacer el mockup
     * Se puede modificar a nivel de usuario sus valores
     * Un usuario se puede dar de baja con un botón
 - Sistema de recuperación de contraseña a partir de email
-- El menú principal está formado por  5 Cardview Recientes pero desaparecen cuando se rellenan, se mantiene  a nivel de usuario
-- El menú tiene filtros de tipo de Cardview, posicion, Rango, TipoPartida y se actualiza en función de estos
-- Chat a nivel de Cardview de grupo
+- El menú principal está formado por  5 Carview Recientes pero desaparecen cuando se rellenan, se mantiene  a nivel de usuario
+- El menú tiene filtros de tipo de carview, posicion, Rango, TipoPartida y se actualiza en función de estos
+- Chat a nivel de cardview de grupo
 - Crear Modelo base de Datos e implementarlo
-- Cardview Especial de Torneos ( con selección de torneos)
-- Creación de Cardview de Grupo, tiene posicion, Rango, TipoPartida(partidas de LoL)
-
+- Carview Especial de Torneos ( con selección de torneos)
+- Creación de CarView de Grupo, tiene posicion, Rango, TipoPartida(partidas de LoL)
 
