@@ -5,5 +5,8 @@ title: "Herramientas"
 
 ### Herramientas de Gestión de Proyecto
 - Trello para la gestión de tareas
-- Slack para la comunicación en equipo
+- Slack para la comunicación en equipo ? No usado
 - GitHub para el control de versiones
+- Quarto Documentación
+- SSMS Para alojamiento de BBDD
+- Google Enviroment (PP) para la realización de una presentación
