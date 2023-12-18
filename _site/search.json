@@ -14,13 +14,6 @@
     "text": "Somos un equipo formado por programadores junior en busca de idear y desarrollar un producto en pos de obtener experiencia.\nEste proyecto es colaborativo.\nSe usan metodologias Agiles (SCRUM)"
   },
   {
-    "objectID": "index.html#tecnologias-usadas",
-    "href": "index.html#tecnologias-usadas",
-    "title": "Readme",
-    "section": "Tecnologias Usadas",
-    "text": "Tecnologias Usadas\n\nASP.NET Core 6.0\nSSMS\nInyección de Dependencias\nBootstrap\nDocumentación Quarto\nTrello para uso de metodologia Agile (Kanban)\n\n\nPreparación del Proyecto final:"
-  },
-  {
     "objectID": "index.html#preparación-del-proyecto",
     "href": "index.html#preparación-del-proyecto",
     "title": "Readme",
@@ -28,32 +21,130 @@
     "text": "Trello Board Name\n\n\n\nBacklog\n\n\n\nDiseño General\n\n\n\nSprints&Estimaciones\n\n\n\nTareas\n\n\n\nMockup\n\n\n\nDB\n\n\n\nHerramientas\n\n\n\n\nReuniones diaria (daily) de 15 min para seguimiento del proyecto\nComunicación a través de WhatsApp\nAsignación de tareas y responsabilidades en Trello"
   },
   {
-    "objectID": "index.html#notas-adicionales",
-    "href": "index.html#notas-adicionales",
-    "title": "Readme",
+    "objectID": "Apartados/Tools.html",
+    "href": "Apartados/Tools.html",
+    "title": "Herramientas",
     "section": "",
-    "text": "Agregar cualquier nota adicional o información relevante que sea importante para el proyecto."
+    "text": "Trello para la gestión de tareas\nSlack para la comunicación en equipo ? No usado –&gt; WhatsApp\nGitHub para el control de versiones\nQuarto Documentación\nSSMS Para alojamiento de BBDD\nGoogle Enviroment (PP) para la realización de una presentación"
   },
   {
-    "objectID": "documentation/documentation.html",
-    "href": "documentation/documentation.html",
-    "title": "Uso de Quarto",
-    "section": "",
-    "text": "Comandos de quarto para actualizar y gestionar el proyecto.\n\n\nTerminal – quarto create project website\n\n\n\nrender project in current dir\n– quarto render\n\n\n\n– quarto preview\n\n\n\n– quarto publish gh-pages (y)"
+    "objectID": "Apartados/Tools.html#tecnologias-usadas",
+    "href": "Apartados/Tools.html#tecnologias-usadas",
+    "title": "Herramientas",
+    "section": "Tecnologias Usadas",
+    "text": "Tecnologias Usadas\n\nASP.NET Core 6.0\nSSMS\nInyección de Dependencias\nBootstrap\nDocumentación Quarto\nTrello para uso de metodologia Agile (Kanban)"
   },
   {
-    "objectID": "documentation/documentation.html#basic-commands",
-    "href": "documentation/documentation.html#basic-commands",
-    "title": "Uso de Quarto",
+    "objectID": "Apartados/Sprints.html",
+    "href": "Apartados/Sprints.html",
+    "title": "Sprints&Estimaciones",
     "section": "",
-    "text": "Comandos de quarto para actualizar y gestionar el proyecto.\nTerminal – quarto create project\nOutput ? Type ❯ default website blog manuscript book confluence\n\n\n\nrender project in current dir\n– quarto render\n\n\n\n– quarto preview"
+    "text": "Fase de Registro y Perfiles de Usuario\nFase de Búsqueda y Matchmaking\nFase de Mensajería y Notificaciones\nFase de Integración con Redes Sociales\nFase de Calificaciones y Comentarios"
   },
   {
-    "objectID": "Apartados/ToDo.html",
-    "href": "Apartados/ToDo.html",
-    "title": "ToDo",
+    "objectID": "Apartados/Sprints.html#período-total-2-semanas-10-días-de-trabajo",
+    "href": "Apartados/Sprints.html#período-total-2-semanas-10-días-de-trabajo",
+    "title": "Sprints&Estimaciones",
+    "section": "Período Total: 2 Semanas (10 Días de Trabajo)",
+    "text": "Período Total: 2 Semanas (10 Días de Trabajo)\n\nSprint 1 (Días 1-3)\n\nRegistro y Perfiles de Usuario\nDía 1: Desarrollo del formulario de registro (8 horas)\nDía 2: Diseño de la interfaz de perfiles de usuario (6 horas)\nDía 3: Implementación de la funcionalidad de edición de perfil (8 horas)\n\n\n\nSprint 2 (Días 4-6)\n\nBúsqueda y Matchmaking\nDía 4: Implementación del algoritmo de búsqueda y matchmaking (10 horas)\nDía 5: Desarrollo de la función de ver perfiles de otros jugadores (6 horas)\nDía 6: Optimización del algoritmo de matchmaking (8 horas)\n\n\n\nSprint 3 (Días 7-9)\n\nMensajería y Notificaciones\nDía 7: Desarrollo del sistema de mensajería (8 horas)\nDía 8: Configuración de las notificaciones en tiempo real (6 horas)\nDía 9: Diseño de la interfaz de notificaciones (4 horas)\n\n\n\nSprint 4 (Días 10-12)\n\nIntegración con Redes Sociales\nDía 10: Integración de la autenticación con redes sociales (8 horas)\nDía 11: Compartir actividad en redes sociales (6 horas)\nDía 12: Configuración de opciones de privacidad (6 horas)\n\n\n\nSprint 5 (Días 13-15)\n\nCalificaciones y Comentarios\nDía 13: Implementación del sistema de calificaciones y comentarios (10 horas)\nDía 14: Diseño de la interfaz de comentarios (6 horas)\nDía 15: Pruebas finales y ajustes (8 horas)"
+  },
+  {
+    "objectID": "Apartados/Sprints.html#tabla",
+    "href": "Apartados/Sprints.html#tabla",
+    "title": "Sprints&Estimaciones",
+    "section": "Tabla",
+    "text": "Tabla\n\n\n\n\n\n\nTarea\n\n\nEstimación Eric\n\n\nEstimación Ilias\n\n\nEstimación Guillermo\n\n\nEstimación David\n\n\nEstimación Grupo\n\n\nHoras Invertidas\n\n\n\n\n\n\nTaskName1\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName2\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName3\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName4\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName5\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName6\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName7\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours"
+  },
+  {
+    "objectID": "Apartados/MockUp.html",
+    "href": "Apartados/MockUp.html",
+    "title": "Mockup",
     "section": "",
-    "text": "Tareas\n\nDesarrollar el formulario de registro\nDiseñar la interfaz de perfiles de usuario\nImplementar el algoritmo de búsqueda y matchmaking\nDesarrollar el sistema de mensajería\nConfigurar las notificaciones en tiempo real\nIntegrar la autenticación con redes sociales\nImplementar el sistema de calificaciones y comentarios"
+    "text": "Figma Mockup\n\n\nNos basamos en el siguiente diseño el cual testeamos y probamos que nos convenciese para crear una linea de desarrollo común y pactada."
+  },
+  {
+    "objectID": "Apartados/MockUp.html#diseño-base",
+    "href": "Apartados/MockUp.html#diseño-base",
+    "title": "Mockup",
+    "section": "",
+    "text": "Figma Mockup\n\n\nNos basamos en el siguiente diseño el cual testeamos y probamos que nos convenciese para crear una linea de desarrollo común y pactada."
+  },
+  {
+    "objectID": "Apartados/MockUp.html#diseño-final",
+    "href": "Apartados/MockUp.html#diseño-final",
+    "title": "Mockup",
+    "section": "Diseño Final",
+    "text": "Diseño Final"
+  },
+  {
+    "objectID": "Apartados/DB.html",
+    "href": "Apartados/DB.html",
+    "title": "DB",
+    "section": "",
+    "text": "Diagrma inicial 05/12/2023\n\n\n\n\nEste script crea las tablas de la primera verisión de la Base de Datos SummonerMatch: - Equipo - ImagenPerfil - Partida - Posicion - Rango - RegionServidor - TipoPartida - Torneo - Usuario - Valoracion\n\n\nClick para mostrar/ocultar el contenido\n\n\nListing 1: Database Creation Script\n/*\n  Database Creation Script\n\n  This script creates tables for the SummonerMatch database, including:\n  - Equipo\n  - ImagenPerfil\n  - Partida\n  - Posicion\n  - Rango\n  - RegionServidor\n  - TipoPartida\n  - Torneo\n  - Usuario\n  - Valoracion\n\n  Please note that this script assumes the existence of other referenced tables.\n  Make sure to review and modify the script as needed for your specific database environment.\n*/\n/* SQL Script Content Goes Here */\nUSE [SummonerMatch]\nGO\n/****** Object:  Table [dbo].[Equipo]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[Equipo](\n    [idEquipo] [int] IDENTITY(1,1) NOT NULL,\n    [posicionTop] [bit] NULL,\n    [posicionMid] [bit] NULL,\n    [posicionJungla] [bit] NULL,\n    [posicionSupport] [bit] NULL,\n    [posicionAdc] [bit] NULL,\n    [fkRangoEquipo] [int] NULL,\n    [fkIdPartida] [int] NULL,\n CONSTRAINT [PK_Equipo] PRIMARY KEY CLUSTERED \n(\n    [idEquipo] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[ImagenPerfil]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[ImagenPerfil](\n    [idImagenPerfil] [int] IDENTITY(1,1) NOT NULL,\n    [archivoImagen] [varbinary](max) NOT NULL,\n CONSTRAINT [PK_ImagenPerfil] PRIMARY KEY CLUSTERED \n(\n    [idImagenPerfil] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[Partida]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[Partida](\n    [idPartida] [int] IDENTITY(1,1) NOT NULL,\n    [horaCreacion] [time](2) NOT NULL,\n    [horaExpiracion] [time](2) NOT NULL,\n    [fkIdCreador] [int] NOT NULL,\n    [fkTipoPartida] [int] NOT NULL,\n    [fkIdTorneo] [int] NULL,\n CONSTRAINT [PK_CardPartida] PRIMARY KEY CLUSTERED \n(\n    [idPartida] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[Posicion]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[Posicion](\n    [idPosicion] [int] IDENTITY(1,1) NOT NULL,\n    [nombrePosicion] [varchar](50) NOT NULL,\n CONSTRAINT [PK_posicion] PRIMARY KEY CLUSTERED \n(\n    [idPosicion] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[Rango]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[Rango](\n    [idRango] [int] IDENTITY(1,1) NOT NULL,\n    [nombreRango] [varchar](50) NOT NULL,\n CONSTRAINT [PK_Rango] PRIMARY KEY CLUSTERED \n(\n    [idRango] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[RegionServidor]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[RegionServidor](\n    [idRegionServidor] [int] IDENTITY(1,1) NOT NULL,\n    [nombreRegion] [varchar](50) NOT NULL,\n CONSTRAINT [PK_regionServidor] PRIMARY KEY CLUSTERED \n(\n    [idRegionServidor] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[TipoPartida]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[TipoPartida](\n    [idTipoPartida] [int] IDENTITY(1,1) NOT NULL,\n    [nombreTipo] [varchar](50) NOT NULL,\n CONSTRAINT [PK_TipoPartida] PRIMARY KEY CLUSTERED \n(\n    [idTipoPartida] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[Torneo]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[Torneo](\n    [idTorneo] [int] IDENTITY(1,1) NOT NULL,\n    [nombreTorneo] [varchar](50) NULL,\n    [descipcionTorneo] [varchar](255) NULL,\n    [cantEquipos] [smallint] NOT NULL,\n    [fkIdCreador] [int] NOT NULL,\n CONSTRAINT [PK_Torneo] PRIMARY KEY CLUSTERED \n(\n    [idTorneo] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[Usuario]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[Usuario](\n    [idUsuario] [int] IDENTITY(1,1) NOT NULL,\n    [admin] [bit] NOT NULL,\n    [userName] [varchar](50) NOT NULL,\n    [nickName] [varchar](50) NOT NULL,\n    [email] [varchar](50) NOT NULL,\n    [password] [varchar](50) NOT NULL,\n    [fkRegionServidor] [int] NULL,\n    [fkRango] [int] NULL,\n    [fkPosicion] [int] NULL,\n    [fkImagenPerfil] [int] NOT NULL,\n    [fkIdEquipo] [int] NULL,\n CONSTRAINT [PK_usuario] PRIMARY KEY CLUSTERED \n(\n    [idUsuario] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[Valoracion]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[Valoracion](\n    [idValoracion] [int] IDENTITY(1,1) NOT NULL,\n    [media] [float] NOT NULL,\n    [numValoraciones] [int] NOT NULL,\n    [fkIdUsuario] [int] NOT NULL,\n CONSTRAINT [PK_Valoracion] PRIMARY KEY CLUSTERED \n(\n    [idValoracion] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\nALTER TABLE [dbo].[Usuario] ADD  CONSTRAINT [DF_usuario_admin]  DEFAULT ((0)) FOR [admin]\nGO\nALTER TABLE [dbo].[Valoracion] ADD  CONSTRAINT [DF_Table_1_numVotos]  DEFAULT ((0)) FOR [media]\nGO\nALTER TABLE [dbo].[Valoracion] ADD  CONSTRAINT [DF_Valoracion_numValoraciones]  DEFAULT ((0)) FOR [numValoraciones]\nGO\nALTER TABLE [dbo].[Equipo]  WITH CHECK ADD  CONSTRAINT [FK_Equipo_Partida] FOREIGN KEY([fkIdPartida])\nREFERENCES [dbo].[Partida] ([idPartida])\nGO\nALTER TABLE [dbo].[Equipo] CHECK CONSTRAINT [FK_Equipo_Partida]\nGO\nALTER TABLE [dbo].[Equipo]  WITH CHECK ADD  CONSTRAINT [FK_Equipo_Rango] FOREIGN KEY([fkRangoEquipo])\nREFERENCES [dbo].[Rango] ([idRango])\nGO\nALTER TABLE [dbo].[Equipo] CHECK CONSTRAINT [FK_Equipo_Rango]\nGO\nALTER TABLE [dbo].[Usuario]  WITH CHECK ADD  CONSTRAINT [FK_Usuario_Equipo] FOREIGN KEY([fkIdEquipo])\nREFERENCES [dbo].[Equipo] ([idEquipo])\nGO\nALTER TABLE [dbo].[Usuario] CHECK CONSTRAINT [FK_Usuario_Equipo]\nGO\nALTER TABLE [dbo].[Usuario]  WITH CHECK ADD  CONSTRAINT [FK_usuario_ImagenPerfil] FOREIGN KEY([fkImagenPerfil])\nREFERENCES [dbo].[ImagenPerfil] ([idImagenPerfil])\nGO\nALTER TABLE [dbo].[Usuario] CHECK CONSTRAINT [FK_usuario_ImagenPerfil]\nGO\nALTER TABLE [dbo].[Usuario]  WITH CHECK ADD  CONSTRAINT [FK_usuario_posicion] FOREIGN KEY([fkPosicion])\nREFERENCES [dbo].[Posicion] ([idPosicion])\nGO\nALTER TABLE [dbo].[Usuario] CHECK CONSTRAINT [FK_usuario_posicion]\nGO\nALTER TABLE [dbo].[Usuario]  WITH CHECK ADD  CONSTRAINT [FK_usuario_Rango] FOREIGN KEY([fkRango])\nREFERENCES [dbo].[Rango] ([idRango])\nGO\nALTER TABLE [dbo].[Usuario] CHECK CONSTRAINT [FK_usuario_Rango]\nGO\nALTER TABLE [dbo].[Usuario]  WITH CHECK ADD  CONSTRAINT [FK_usuario_regionServidor] FOREIGN KEY([fkRegionServidor])\nREFERENCES [dbo].[RegionServidor] ([idRegionServidor])\nGO\nALTER TABLE [dbo].[Usuario] CHECK CONSTRAINT [FK_usuario_regionServidor]\nGO\nALTER TABLE [dbo].[Valoracion]  WITH CHECK ADD  CONSTRAINT [FK_Valoracion_usuario] FOREIGN KEY([fkIdUsuario])\nREFERENCES [dbo].[Usuario] ([idUsuario])\nGO\nALTER TABLE [dbo].[Valoracion] CHECK CONSTRAINT [FK_Valoracion_usuario]\nGO"
+  },
+  {
+    "objectID": "Apartados/DB.html#diseño-de-la-base-de-datos",
+    "href": "Apartados/DB.html#diseño-de-la-base-de-datos",
+    "title": "DB",
+    "section": "",
+    "text": "Diagrma inicial 05/12/2023\n\n\n\n\nEste script crea las tablas de la primera verisión de la Base de Datos SummonerMatch: - Equipo - ImagenPerfil - Partida - Posicion - Rango - RegionServidor - TipoPartida - Torneo - Usuario - Valoracion\n\n\nClick para mostrar/ocultar el contenido\n\n\nListing 1: Database Creation Script\n/*\n  Database Creation Script\n\n  This script creates tables for the SummonerMatch database, including:\n  - Equipo\n  - ImagenPerfil\n  - Partida\n  - Posicion\n  - Rango\n  - RegionServidor\n  - TipoPartida\n  - Torneo\n  - Usuario\n  - Valoracion\n\n  Please note that this script assumes the existence of other referenced tables.\n  Make sure to review and modify the script as needed for your specific database environment.\n*/\n/* SQL Script Content Goes Here */\nUSE [SummonerMatch]\nGO\n/****** Object:  Table [dbo].[Equipo]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[Equipo](\n    [idEquipo] [int] IDENTITY(1,1) NOT NULL,\n    [posicionTop] [bit] NULL,\n    [posicionMid] [bit] NULL,\n    [posicionJungla] [bit] NULL,\n    [posicionSupport] [bit] NULL,\n    [posicionAdc] [bit] NULL,\n    [fkRangoEquipo] [int] NULL,\n    [fkIdPartida] [int] NULL,\n CONSTRAINT [PK_Equipo] PRIMARY KEY CLUSTERED \n(\n    [idEquipo] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[ImagenPerfil]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[ImagenPerfil](\n    [idImagenPerfil] [int] IDENTITY(1,1) NOT NULL,\n    [archivoImagen] [varbinary](max) NOT NULL,\n CONSTRAINT [PK_ImagenPerfil] PRIMARY KEY CLUSTERED \n(\n    [idImagenPerfil] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[Partida]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[Partida](\n    [idPartida] [int] IDENTITY(1,1) NOT NULL,\n    [horaCreacion] [time](2) NOT NULL,\n    [horaExpiracion] [time](2) NOT NULL,\n    [fkIdCreador] [int] NOT NULL,\n    [fkTipoPartida] [int] NOT NULL,\n    [fkIdTorneo] [int] NULL,\n CONSTRAINT [PK_CardPartida] PRIMARY KEY CLUSTERED \n(\n    [idPartida] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[Posicion]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[Posicion](\n    [idPosicion] [int] IDENTITY(1,1) NOT NULL,\n    [nombrePosicion] [varchar](50) NOT NULL,\n CONSTRAINT [PK_posicion] PRIMARY KEY CLUSTERED \n(\n    [idPosicion] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[Rango]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[Rango](\n    [idRango] [int] IDENTITY(1,1) NOT NULL,\n    [nombreRango] [varchar](50) NOT NULL,\n CONSTRAINT [PK_Rango] PRIMARY KEY CLUSTERED \n(\n    [idRango] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[RegionServidor]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[RegionServidor](\n    [idRegionServidor] [int] IDENTITY(1,1) NOT NULL,\n    [nombreRegion] [varchar](50) NOT NULL,\n CONSTRAINT [PK_regionServidor] PRIMARY KEY CLUSTERED \n(\n    [idRegionServidor] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[TipoPartida]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[TipoPartida](\n    [idTipoPartida] [int] IDENTITY(1,1) NOT NULL,\n    [nombreTipo] [varchar](50) NOT NULL,\n CONSTRAINT [PK_TipoPartida] PRIMARY KEY CLUSTERED \n(\n    [idTipoPartida] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[Torneo]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[Torneo](\n    [idTorneo] [int] IDENTITY(1,1) NOT NULL,\n    [nombreTorneo] [varchar](50) NULL,\n    [descipcionTorneo] [varchar](255) NULL,\n    [cantEquipos] [smallint] NOT NULL,\n    [fkIdCreador] [int] NOT NULL,\n CONSTRAINT [PK_Torneo] PRIMARY KEY CLUSTERED \n(\n    [idTorneo] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[Usuario]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[Usuario](\n    [idUsuario] [int] IDENTITY(1,1) NOT NULL,\n    [admin] [bit] NOT NULL,\n    [userName] [varchar](50) NOT NULL,\n    [nickName] [varchar](50) NOT NULL,\n    [email] [varchar](50) NOT NULL,\n    [password] [varchar](50) NOT NULL,\n    [fkRegionServidor] [int] NULL,\n    [fkRango] [int] NULL,\n    [fkPosicion] [int] NULL,\n    [fkImagenPerfil] [int] NOT NULL,\n    [fkIdEquipo] [int] NULL,\n CONSTRAINT [PK_usuario] PRIMARY KEY CLUSTERED \n(\n    [idUsuario] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[Valoracion]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[Valoracion](\n    [idValoracion] [int] IDENTITY(1,1) NOT NULL,\n    [media] [float] NOT NULL,\n    [numValoraciones] [int] NOT NULL,\n    [fkIdUsuario] [int] NOT NULL,\n CONSTRAINT [PK_Valoracion] PRIMARY KEY CLUSTERED \n(\n    [idValoracion] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\nALTER TABLE [dbo].[Usuario] ADD  CONSTRAINT [DF_usuario_admin]  DEFAULT ((0)) FOR [admin]\nGO\nALTER TABLE [dbo].[Valoracion] ADD  CONSTRAINT [DF_Table_1_numVotos]  DEFAULT ((0)) FOR [media]\nGO\nALTER TABLE [dbo].[Valoracion] ADD  CONSTRAINT [DF_Valoracion_numValoraciones]  DEFAULT ((0)) FOR [numValoraciones]\nGO\nALTER TABLE [dbo].[Equipo]  WITH CHECK ADD  CONSTRAINT [FK_Equipo_Partida] FOREIGN KEY([fkIdPartida])\nREFERENCES [dbo].[Partida] ([idPartida])\nGO\nALTER TABLE [dbo].[Equipo] CHECK CONSTRAINT [FK_Equipo_Partida]\nGO\nALTER TABLE [dbo].[Equipo]  WITH CHECK ADD  CONSTRAINT [FK_Equipo_Rango] FOREIGN KEY([fkRangoEquipo])\nREFERENCES [dbo].[Rango] ([idRango])\nGO\nALTER TABLE [dbo].[Equipo] CHECK CONSTRAINT [FK_Equipo_Rango]\nGO\nALTER TABLE [dbo].[Usuario]  WITH CHECK ADD  CONSTRAINT [FK_Usuario_Equipo] FOREIGN KEY([fkIdEquipo])\nREFERENCES [dbo].[Equipo] ([idEquipo])\nGO\nALTER TABLE [dbo].[Usuario] CHECK CONSTRAINT [FK_Usuario_Equipo]\nGO\nALTER TABLE [dbo].[Usuario]  WITH CHECK ADD  CONSTRAINT [FK_usuario_ImagenPerfil] FOREIGN KEY([fkImagenPerfil])\nREFERENCES [dbo].[ImagenPerfil] ([idImagenPerfil])\nGO\nALTER TABLE [dbo].[Usuario] CHECK CONSTRAINT [FK_usuario_ImagenPerfil]\nGO\nALTER TABLE [dbo].[Usuario]  WITH CHECK ADD  CONSTRAINT [FK_usuario_posicion] FOREIGN KEY([fkPosicion])\nREFERENCES [dbo].[Posicion] ([idPosicion])\nGO\nALTER TABLE [dbo].[Usuario] CHECK CONSTRAINT [FK_usuario_posicion]\nGO\nALTER TABLE [dbo].[Usuario]  WITH CHECK ADD  CONSTRAINT [FK_usuario_Rango] FOREIGN KEY([fkRango])\nREFERENCES [dbo].[Rango] ([idRango])\nGO\nALTER TABLE [dbo].[Usuario] CHECK CONSTRAINT [FK_usuario_Rango]\nGO\nALTER TABLE [dbo].[Usuario]  WITH CHECK ADD  CONSTRAINT [FK_usuario_regionServidor] FOREIGN KEY([fkRegionServidor])\nREFERENCES [dbo].[RegionServidor] ([idRegionServidor])\nGO\nALTER TABLE [dbo].[Usuario] CHECK CONSTRAINT [FK_usuario_regionServidor]\nGO\nALTER TABLE [dbo].[Valoracion]  WITH CHECK ADD  CONSTRAINT [FK_Valoracion_usuario] FOREIGN KEY([fkIdUsuario])\nREFERENCES [dbo].[Usuario] ([idUsuario])\nGO\nALTER TABLE [dbo].[Valoracion] CHECK CONSTRAINT [FK_Valoracion_usuario]\nGO"
+  },
+  {
+    "objectID": "Apartados/DB.html#diseño-final-base-de-datos",
+    "href": "Apartados/DB.html#diseño-final-base-de-datos",
+    "title": "DB",
+    "section": "Diseño final Base de Datos",
+    "text": "Diseño final Base de Datos\nEn una segunda vuelta optamos por utilizar el framework (generador de base de datos a partir de modelo y migraciones pedir a eric)\n\n\n\nDiagrma Final 15/12/2023\n\n\n(comentar los cambios de las diferencias de la base de datos)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Somos un equipo de programadores junior en proceso de creación de un proyecto full stack. Estamos desarrollando este proyecto como parte de nuestro proyecto final en el bootcamp de .NET en Fundación Esplai. Aquí están los miembros del equipo:\n\n\nPerfil de GitHub de Ilias\n\n\n\nPerfil de GitHub de Eric\n\n\n\nPerfil de GitHub de Guillermo\n\n\n\nPerfil de GitHub de David"
+  },
+  {
+    "objectID": "about.html#ilias",
+    "href": "about.html#ilias",
+    "title": "About",
+    "section": "",
+    "text": "Perfil de GitHub de Ilias"
+  },
+  {
+    "objectID": "about.html#eric",
+    "href": "about.html#eric",
+    "title": "About",
+    "section": "",
+    "text": "Perfil de GitHub de Eric"
+  },
+  {
+    "objectID": "about.html#guillermo",
+    "href": "about.html#guillermo",
+    "title": "About",
+    "section": "",
+    "text": "Perfil de GitHub de Guillermo"
+  },
+  {
+    "objectID": "about.html#david",
+    "href": "about.html#david",
+    "title": "About",
+    "section": "",
+    "text": "Perfil de GitHub de David"
+  },
+  {
+    "objectID": "Apartados/Comentaries.html#lineas-de-futuro",
+    "href": "Apartados/Comentaries.html#lineas-de-futuro",
+    "title": "Comentarios",
+    "section": "Lineas de futuro",
+    "text": "Lineas de futuro"
+  },
+  {
+    "objectID": "Apartados/GeneralDesign.html",
+    "href": "Apartados/GeneralDesign.html",
+    "title": "Diseño General",
+    "section": "",
+    "text": "Diseño General\n\nPaleta de colores: [Incluir aquí la paleta de colores]\n\nUsaremos colores y estilos a la pagina del LoL (League of Legends), juego en el que basamos el MVP (Minimun Viable Project).\n\nLink a LoL\nValoramos que para destacar dado el tiempo disponible nos basaremos en el uso principalmente de botones o Cards para que el usuario dispona de una mejor UX.\nVenimos de un mundo de foros donde no se concretan equipos vs un entorno más visual y moderno\n\n\n\n\nForo Lol"
   },
   {
     "objectID": "Apartados/ProductBacklog.html",
@@ -91,186 +182,18 @@
     "text": "CARD TORNEO e Interacción:(mismas especificaciones de Partida)\nLos torneos los crea el administrador manualmente (Hora y Dia) Mínimo 4 equipos por torneo Tiempo de inscripción de 3h Los cierra el administrador //La idea murió y se opto por lo siguiente"
   },
   {
-    "objectID": "Apartados/GeneralDesign.html",
-    "href": "Apartados/GeneralDesign.html",
-    "title": "Diseño General",
+    "objectID": "Apartados/ToDo.html",
+    "href": "Apartados/ToDo.html",
+    "title": "ToDo",
     "section": "",
-    "text": "Diseño General\n\nPaleta de colores: [Incluir aquí la paleta de colores]\n\nUsaremos colores y estilos a la pagina del LoL (League of Legends), juego en el que basamos el MVP (Minimun Viable Project).\n\nLink a LoL\nValoramos que para destacar dado el tiempo disponible nos basaremos en el uso principalmente de botones o Cards para que el usuario dispona de una mejor UX.\nVenimos de un mundo de foros donde no se concretan equipos vs un entorno más visual y moderno\n\n\n\n\nForo Lol"
+    "text": "Tareas\n\nDesarrollar el formulario de registro\nDiseñar la interfaz de perfiles de usuario\nImplementar el algoritmo de búsqueda y matchmaking\nDesarrollar el sistema de mensajería\nConfigurar las notificaciones en tiempo real\nIntegrar la autenticación con redes sociales\nImplementar el sistema de calificaciones y comentarios"
   },
   {
-    "objectID": "Apartados/DB.html",
-    "href": "Apartados/DB.html",
-    "title": "DB",
+    "objectID": "documentation/documentation.html",
+    "href": "documentation/documentation.html",
+    "title": "Uso de Quarto",
     "section": "",
-    "text": "Diagrma inicial 05/12/2023\n\n\n\n\nEste script crea las tablas de la primera verisión de la Base de Datos SummonerMatch: - Equipo - ImagenPerfil - Partida - Posicion - Rango - RegionServidor - TipoPartida - Torneo - Usuario - Valoracion\n\n\nClick para mostrar/ocultar el contenido\n\n\nListing 1: Database Creation Script\n/*\n  Database Creation Script\n\n  This script creates tables for the SummonerMatch database, including:\n  - Equipo\n  - ImagenPerfil\n  - Partida\n  - Posicion\n  - Rango\n  - RegionServidor\n  - TipoPartida\n  - Torneo\n  - Usuario\n  - Valoracion\n\n  Please note that this script assumes the existence of other referenced tables.\n  Make sure to review and modify the script as needed for your specific database environment.\n*/\n/* SQL Script Content Goes Here */\nUSE [SummonerMatch]\nGO\n/****** Object:  Table [dbo].[Equipo]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[Equipo](\n    [idEquipo] [int] IDENTITY(1,1) NOT NULL,\n    [posicionTop] [bit] NULL,\n    [posicionMid] [bit] NULL,\n    [posicionJungla] [bit] NULL,\n    [posicionSupport] [bit] NULL,\n    [posicionAdc] [bit] NULL,\n    [fkRangoEquipo] [int] NULL,\n    [fkIdPartida] [int] NULL,\n CONSTRAINT [PK_Equipo] PRIMARY KEY CLUSTERED \n(\n    [idEquipo] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[ImagenPerfil]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[ImagenPerfil](\n    [idImagenPerfil] [int] IDENTITY(1,1) NOT NULL,\n    [archivoImagen] [varbinary](max) NOT NULL,\n CONSTRAINT [PK_ImagenPerfil] PRIMARY KEY CLUSTERED \n(\n    [idImagenPerfil] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[Partida]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[Partida](\n    [idPartida] [int] IDENTITY(1,1) NOT NULL,\n    [horaCreacion] [time](2) NOT NULL,\n    [horaExpiracion] [time](2) NOT NULL,\n    [fkIdCreador] [int] NOT NULL,\n    [fkTipoPartida] [int] NOT NULL,\n    [fkIdTorneo] [int] NULL,\n CONSTRAINT [PK_CardPartida] PRIMARY KEY CLUSTERED \n(\n    [idPartida] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[Posicion]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[Posicion](\n    [idPosicion] [int] IDENTITY(1,1) NOT NULL,\n    [nombrePosicion] [varchar](50) NOT NULL,\n CONSTRAINT [PK_posicion] PRIMARY KEY CLUSTERED \n(\n    [idPosicion] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[Rango]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[Rango](\n    [idRango] [int] IDENTITY(1,1) NOT NULL,\n    [nombreRango] [varchar](50) NOT NULL,\n CONSTRAINT [PK_Rango] PRIMARY KEY CLUSTERED \n(\n    [idRango] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[RegionServidor]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[RegionServidor](\n    [idRegionServidor] [int] IDENTITY(1,1) NOT NULL,\n    [nombreRegion] [varchar](50) NOT NULL,\n CONSTRAINT [PK_regionServidor] PRIMARY KEY CLUSTERED \n(\n    [idRegionServidor] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[TipoPartida]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[TipoPartida](\n    [idTipoPartida] [int] IDENTITY(1,1) NOT NULL,\n    [nombreTipo] [varchar](50) NOT NULL,\n CONSTRAINT [PK_TipoPartida] PRIMARY KEY CLUSTERED \n(\n    [idTipoPartida] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[Torneo]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[Torneo](\n    [idTorneo] [int] IDENTITY(1,1) NOT NULL,\n    [nombreTorneo] [varchar](50) NULL,\n    [descipcionTorneo] [varchar](255) NULL,\n    [cantEquipos] [smallint] NOT NULL,\n    [fkIdCreador] [int] NOT NULL,\n CONSTRAINT [PK_Torneo] PRIMARY KEY CLUSTERED \n(\n    [idTorneo] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[Usuario]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[Usuario](\n    [idUsuario] [int] IDENTITY(1,1) NOT NULL,\n    [admin] [bit] NOT NULL,\n    [userName] [varchar](50) NOT NULL,\n    [nickName] [varchar](50) NOT NULL,\n    [email] [varchar](50) NOT NULL,\n    [password] [varchar](50) NOT NULL,\n    [fkRegionServidor] [int] NULL,\n    [fkRango] [int] NULL,\n    [fkPosicion] [int] NULL,\n    [fkImagenPerfil] [int] NOT NULL,\n    [fkIdEquipo] [int] NULL,\n CONSTRAINT [PK_usuario] PRIMARY KEY CLUSTERED \n(\n    [idUsuario] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[Valoracion]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[Valoracion](\n    [idValoracion] [int] IDENTITY(1,1) NOT NULL,\n    [media] [float] NOT NULL,\n    [numValoraciones] [int] NOT NULL,\n    [fkIdUsuario] [int] NOT NULL,\n CONSTRAINT [PK_Valoracion] PRIMARY KEY CLUSTERED \n(\n    [idValoracion] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\nALTER TABLE [dbo].[Usuario] ADD  CONSTRAINT [DF_usuario_admin]  DEFAULT ((0)) FOR [admin]\nGO\nALTER TABLE [dbo].[Valoracion] ADD  CONSTRAINT [DF_Table_1_numVotos]  DEFAULT ((0)) FOR [media]\nGO\nALTER TABLE [dbo].[Valoracion] ADD  CONSTRAINT [DF_Valoracion_numValoraciones]  DEFAULT ((0)) FOR [numValoraciones]\nGO\nALTER TABLE [dbo].[Equipo]  WITH CHECK ADD  CONSTRAINT [FK_Equipo_Partida] FOREIGN KEY([fkIdPartida])\nREFERENCES [dbo].[Partida] ([idPartida])\nGO\nALTER TABLE [dbo].[Equipo] CHECK CONSTRAINT [FK_Equipo_Partida]\nGO\nALTER TABLE [dbo].[Equipo]  WITH CHECK ADD  CONSTRAINT [FK_Equipo_Rango] FOREIGN KEY([fkRangoEquipo])\nREFERENCES [dbo].[Rango] ([idRango])\nGO\nALTER TABLE [dbo].[Equipo] CHECK CONSTRAINT [FK_Equipo_Rango]\nGO\nALTER TABLE [dbo].[Usuario]  WITH CHECK ADD  CONSTRAINT [FK_Usuario_Equipo] FOREIGN KEY([fkIdEquipo])\nREFERENCES [dbo].[Equipo] ([idEquipo])\nGO\nALTER TABLE [dbo].[Usuario] CHECK CONSTRAINT [FK_Usuario_Equipo]\nGO\nALTER TABLE [dbo].[Usuario]  WITH CHECK ADD  CONSTRAINT [FK_usuario_ImagenPerfil] FOREIGN KEY([fkImagenPerfil])\nREFERENCES [dbo].[ImagenPerfil] ([idImagenPerfil])\nGO\nALTER TABLE [dbo].[Usuario] CHECK CONSTRAINT [FK_usuario_ImagenPerfil]\nGO\nALTER TABLE [dbo].[Usuario]  WITH CHECK ADD  CONSTRAINT [FK_usuario_posicion] FOREIGN KEY([fkPosicion])\nREFERENCES [dbo].[Posicion] ([idPosicion])\nGO\nALTER TABLE [dbo].[Usuario] CHECK CONSTRAINT [FK_usuario_posicion]\nGO\nALTER TABLE [dbo].[Usuario]  WITH CHECK ADD  CONSTRAINT [FK_usuario_Rango] FOREIGN KEY([fkRango])\nREFERENCES [dbo].[Rango] ([idRango])\nGO\nALTER TABLE [dbo].[Usuario] CHECK CONSTRAINT [FK_usuario_Rango]\nGO\nALTER TABLE [dbo].[Usuario]  WITH CHECK ADD  CONSTRAINT [FK_usuario_regionServidor] FOREIGN KEY([fkRegionServidor])\nREFERENCES [dbo].[RegionServidor] ([idRegionServidor])\nGO\nALTER TABLE [dbo].[Usuario] CHECK CONSTRAINT [FK_usuario_regionServidor]\nGO\nALTER TABLE [dbo].[Valoracion]  WITH CHECK ADD  CONSTRAINT [FK_Valoracion_usuario] FOREIGN KEY([fkIdUsuario])\nREFERENCES [dbo].[Usuario] ([idUsuario])\nGO\nALTER TABLE [dbo].[Valoracion] CHECK CONSTRAINT [FK_Valoracion_usuario]\nGO"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Somos un equipo de programadores junior en proceso de creación de un proyecto full stack. Estamos desarrollando este proyecto como parte de nuestro proyecto final en el bootcamp de .NET en Fundación Esplai. Aquí están los miembros del equipo:\n\n\nPerfil de GitHub de Ilias\n\n\n\nPerfil de GitHub de Eric\n\n\n\nPerfil de GitHub de Guillermo\n\n\n\nPerfil de GitHub de David"
-  },
-  {
-    "objectID": "Apartados/Estimations.html",
-    "href": "Apartados/Estimations.html",
-    "title": "Estimaciones",
-    "section": "",
-    "text": "Tarea\n\n\nEstimación Eric\n\n\nEstimación Ilias\n\n\nEstimación Guillermo\n\n\nEstimación David\n\n\nEstimación Grupo\n\n\nHoras Invertidas\n\n\n\n\n\n\nTaskName1\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName2\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName3\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName4\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName5\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName6\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName7\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours"
-  },
-  {
-    "objectID": "Apartados/Estimations.html#tabla-adaptativa",
-    "href": "Apartados/Estimations.html#tabla-adaptativa",
-    "title": "Estimaciones",
-    "section": "",
-    "text": "Tarea\n\n\nEstimación Eric\n\n\nEstimación Ilias\n\n\nEstimación Guillermo\n\n\nEstimación David\n\n\nEstimación Grupo\n\n\nHoras Invertidas\n\n\n\n\n\n\nTaskName1\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName2\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName3\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName4\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName5\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName6\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName7\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours"
-  },
-  {
-    "objectID": "Apartados/MockUp.html",
-    "href": "Apartados/MockUp.html",
-    "title": "Mockup",
-    "section": "",
-    "text": "Figma Mockup\n\n\nNos basamos en el siguiente diseño el cual testeamos y probamos que nos convenciese para crear una linea de desarrollo común y pactada."
-  },
-  {
-    "objectID": "Apartados/Sprints.html",
-    "href": "Apartados/Sprints.html",
-    "title": "Sprints&Estimaciones",
-    "section": "",
-    "text": "Fase de Registro y Perfiles de Usuario\nFase de Búsqueda y Matchmaking\nFase de Mensajería y Notificaciones\nFase de Integración con Redes Sociales\nFase de Calificaciones y Comentarios"
-  },
-  {
-    "objectID": "Apartados/Sprints.html#período-total-2-semanas-10-días-de-trabajo",
-    "href": "Apartados/Sprints.html#período-total-2-semanas-10-días-de-trabajo",
-    "title": "Sprints&Estimaciones",
-    "section": "Período Total: 2 Semanas (10 Días de Trabajo)",
-    "text": "Período Total: 2 Semanas (10 Días de Trabajo)\n\nSprint 1 (Días 1-3)\n\nRegistro y Perfiles de Usuario\nDía 1: Desarrollo del formulario de registro (8 horas)\nDía 2: Diseño de la interfaz de perfiles de usuario (6 horas)\nDía 3: Implementación de la funcionalidad de edición de perfil (8 horas)\n\n\n\nSprint 2 (Días 4-6)\n\nBúsqueda y Matchmaking\nDía 4: Implementación del algoritmo de búsqueda y matchmaking (10 horas)\nDía 5: Desarrollo de la función de ver perfiles de otros jugadores (6 horas)\nDía 6: Optimización del algoritmo de matchmaking (8 horas)\n\n\n\nSprint 3 (Días 7-9)\n\nMensajería y Notificaciones\nDía 7: Desarrollo del sistema de mensajería (8 horas)\nDía 8: Configuración de las notificaciones en tiempo real (6 horas)\nDía 9: Diseño de la interfaz de notificaciones (4 horas)\n\n\n\nSprint 4 (Días 10-12)\n\nIntegración con Redes Sociales\nDía 10: Integración de la autenticación con redes sociales (8 horas)\nDía 11: Compartir actividad en redes sociales (6 horas)\nDía 12: Configuración de opciones de privacidad (6 horas)\n\n\n\nSprint 5 (Días 13-15)\n\nCalificaciones y Comentarios\nDía 13: Implementación del sistema de calificaciones y comentarios (10 horas)\nDía 14: Diseño de la interfaz de comentarios (6 horas)\nDía 15: Pruebas finales y ajustes (8 horas)"
-  },
-  {
-    "objectID": "Apartados/Tools.html",
-    "href": "Apartados/Tools.html",
-    "title": "Herramientas",
-    "section": "",
-    "text": "Trello para la gestión de tareas\nSlack para la comunicación en equipo ? No usado –&gt; WhatsApp\nGitHub para el control de versiones\nQuarto Documentación\nSSMS Para alojamiento de BBDD\nGoogle Enviroment (PP) para la realización de una presentación"
-  },
-  {
-    "objectID": "Apartados/DB.html#diseño-de-la-base-de-datos",
-    "href": "Apartados/DB.html#diseño-de-la-base-de-datos",
-    "title": "DB",
-    "section": "",
-    "text": "Diagrma inicial 05/12/2023\n\n\n\n\nEste script crea las tablas de la primera verisión de la Base de Datos SummonerMatch: - Equipo - ImagenPerfil - Partida - Posicion - Rango - RegionServidor - TipoPartida - Torneo - Usuario - Valoracion\n\n\nClick para mostrar/ocultar el contenido\n\n\nListing 1: Database Creation Script\n/*\n  Database Creation Script\n\n  This script creates tables for the SummonerMatch database, including:\n  - Equipo\n  - ImagenPerfil\n  - Partida\n  - Posicion\n  - Rango\n  - RegionServidor\n  - TipoPartida\n  - Torneo\n  - Usuario\n  - Valoracion\n\n  Please note that this script assumes the existence of other referenced tables.\n  Make sure to review and modify the script as needed for your specific database environment.\n*/\n/* SQL Script Content Goes Here */\nUSE [SummonerMatch]\nGO\n/****** Object:  Table [dbo].[Equipo]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[Equipo](\n    [idEquipo] [int] IDENTITY(1,1) NOT NULL,\n    [posicionTop] [bit] NULL,\n    [posicionMid] [bit] NULL,\n    [posicionJungla] [bit] NULL,\n    [posicionSupport] [bit] NULL,\n    [posicionAdc] [bit] NULL,\n    [fkRangoEquipo] [int] NULL,\n    [fkIdPartida] [int] NULL,\n CONSTRAINT [PK_Equipo] PRIMARY KEY CLUSTERED \n(\n    [idEquipo] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[ImagenPerfil]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[ImagenPerfil](\n    [idImagenPerfil] [int] IDENTITY(1,1) NOT NULL,\n    [archivoImagen] [varbinary](max) NOT NULL,\n CONSTRAINT [PK_ImagenPerfil] PRIMARY KEY CLUSTERED \n(\n    [idImagenPerfil] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[Partida]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[Partida](\n    [idPartida] [int] IDENTITY(1,1) NOT NULL,\n    [horaCreacion] [time](2) NOT NULL,\n    [horaExpiracion] [time](2) NOT NULL,\n    [fkIdCreador] [int] NOT NULL,\n    [fkTipoPartida] [int] NOT NULL,\n    [fkIdTorneo] [int] NULL,\n CONSTRAINT [PK_CardPartida] PRIMARY KEY CLUSTERED \n(\n    [idPartida] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[Posicion]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[Posicion](\n    [idPosicion] [int] IDENTITY(1,1) NOT NULL,\n    [nombrePosicion] [varchar](50) NOT NULL,\n CONSTRAINT [PK_posicion] PRIMARY KEY CLUSTERED \n(\n    [idPosicion] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[Rango]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[Rango](\n    [idRango] [int] IDENTITY(1,1) NOT NULL,\n    [nombreRango] [varchar](50) NOT NULL,\n CONSTRAINT [PK_Rango] PRIMARY KEY CLUSTERED \n(\n    [idRango] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[RegionServidor]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[RegionServidor](\n    [idRegionServidor] [int] IDENTITY(1,1) NOT NULL,\n    [nombreRegion] [varchar](50) NOT NULL,\n CONSTRAINT [PK_regionServidor] PRIMARY KEY CLUSTERED \n(\n    [idRegionServidor] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[TipoPartida]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[TipoPartida](\n    [idTipoPartida] [int] IDENTITY(1,1) NOT NULL,\n    [nombreTipo] [varchar](50) NOT NULL,\n CONSTRAINT [PK_TipoPartida] PRIMARY KEY CLUSTERED \n(\n    [idTipoPartida] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[Torneo]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[Torneo](\n    [idTorneo] [int] IDENTITY(1,1) NOT NULL,\n    [nombreTorneo] [varchar](50) NULL,\n    [descipcionTorneo] [varchar](255) NULL,\n    [cantEquipos] [smallint] NOT NULL,\n    [fkIdCreador] [int] NOT NULL,\n CONSTRAINT [PK_Torneo] PRIMARY KEY CLUSTERED \n(\n    [idTorneo] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[Usuario]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[Usuario](\n    [idUsuario] [int] IDENTITY(1,1) NOT NULL,\n    [admin] [bit] NOT NULL,\n    [userName] [varchar](50) NOT NULL,\n    [nickName] [varchar](50) NOT NULL,\n    [email] [varchar](50) NOT NULL,\n    [password] [varchar](50) NOT NULL,\n    [fkRegionServidor] [int] NULL,\n    [fkRango] [int] NULL,\n    [fkPosicion] [int] NULL,\n    [fkImagenPerfil] [int] NOT NULL,\n    [fkIdEquipo] [int] NULL,\n CONSTRAINT [PK_usuario] PRIMARY KEY CLUSTERED \n(\n    [idUsuario] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\n/****** Object:  Table [dbo].[Valoracion]    Script Date: 05/12/2023 17:53:05 ******/\nSET ANSI_NULLS ON\nGO\nSET QUOTED_IDENTIFIER ON\nGO\nCREATE TABLE [dbo].[Valoracion](\n    [idValoracion] [int] IDENTITY(1,1) NOT NULL,\n    [media] [float] NOT NULL,\n    [numValoraciones] [int] NOT NULL,\n    [fkIdUsuario] [int] NOT NULL,\n CONSTRAINT [PK_Valoracion] PRIMARY KEY CLUSTERED \n(\n    [idValoracion] ASC\n)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]\n) ON [PRIMARY]\nGO\nALTER TABLE [dbo].[Usuario] ADD  CONSTRAINT [DF_usuario_admin]  DEFAULT ((0)) FOR [admin]\nGO\nALTER TABLE [dbo].[Valoracion] ADD  CONSTRAINT [DF_Table_1_numVotos]  DEFAULT ((0)) FOR [media]\nGO\nALTER TABLE [dbo].[Valoracion] ADD  CONSTRAINT [DF_Valoracion_numValoraciones]  DEFAULT ((0)) FOR [numValoraciones]\nGO\nALTER TABLE [dbo].[Equipo]  WITH CHECK ADD  CONSTRAINT [FK_Equipo_Partida] FOREIGN KEY([fkIdPartida])\nREFERENCES [dbo].[Partida] ([idPartida])\nGO\nALTER TABLE [dbo].[Equipo] CHECK CONSTRAINT [FK_Equipo_Partida]\nGO\nALTER TABLE [dbo].[Equipo]  WITH CHECK ADD  CONSTRAINT [FK_Equipo_Rango] FOREIGN KEY([fkRangoEquipo])\nREFERENCES [dbo].[Rango] ([idRango])\nGO\nALTER TABLE [dbo].[Equipo] CHECK CONSTRAINT [FK_Equipo_Rango]\nGO\nALTER TABLE [dbo].[Usuario]  WITH CHECK ADD  CONSTRAINT [FK_Usuario_Equipo] FOREIGN KEY([fkIdEquipo])\nREFERENCES [dbo].[Equipo] ([idEquipo])\nGO\nALTER TABLE [dbo].[Usuario] CHECK CONSTRAINT [FK_Usuario_Equipo]\nGO\nALTER TABLE [dbo].[Usuario]  WITH CHECK ADD  CONSTRAINT [FK_usuario_ImagenPerfil] FOREIGN KEY([fkImagenPerfil])\nREFERENCES [dbo].[ImagenPerfil] ([idImagenPerfil])\nGO\nALTER TABLE [dbo].[Usuario] CHECK CONSTRAINT [FK_usuario_ImagenPerfil]\nGO\nALTER TABLE [dbo].[Usuario]  WITH CHECK ADD  CONSTRAINT [FK_usuario_posicion] FOREIGN KEY([fkPosicion])\nREFERENCES [dbo].[Posicion] ([idPosicion])\nGO\nALTER TABLE [dbo].[Usuario] CHECK CONSTRAINT [FK_usuario_posicion]\nGO\nALTER TABLE [dbo].[Usuario]  WITH CHECK ADD  CONSTRAINT [FK_usuario_Rango] FOREIGN KEY([fkRango])\nREFERENCES [dbo].[Rango] ([idRango])\nGO\nALTER TABLE [dbo].[Usuario] CHECK CONSTRAINT [FK_usuario_Rango]\nGO\nALTER TABLE [dbo].[Usuario]  WITH CHECK ADD  CONSTRAINT [FK_usuario_regionServidor] FOREIGN KEY([fkRegionServidor])\nREFERENCES [dbo].[RegionServidor] ([idRegionServidor])\nGO\nALTER TABLE [dbo].[Usuario] CHECK CONSTRAINT [FK_usuario_regionServidor]\nGO\nALTER TABLE [dbo].[Valoracion]  WITH CHECK ADD  CONSTRAINT [FK_Valoracion_usuario] FOREIGN KEY([fkIdUsuario])\nREFERENCES [dbo].[Usuario] ([idUsuario])\nGO\nALTER TABLE [dbo].[Valoracion] CHECK CONSTRAINT [FK_Valoracion_usuario]\nGO"
-  },
-  {
-    "objectID": "Apartados/DB.html#diseño",
-    "href": "Apartados/DB.html#diseño",
-    "title": "Base de Datos",
-    "section": "Diseño",
-    "text": "Diseño"
-  },
-  {
-    "objectID": "Apartados/DB.html#diseño-final-base-de",
-    "href": "Apartados/DB.html#diseño-final-base-de",
-    "title": "Base de Datos",
-    "section": "Diseño final base de",
-    "text": "Diseño final base de"
-  },
-  {
-    "objectID": "Apartados/DB.html#diseño-final-base-de-datos",
-    "href": "Apartados/DB.html#diseño-final-base-de-datos",
-    "title": "DB",
-    "section": "Diseño final Base de Datos",
-    "text": "Diseño final Base de Datos\nEn una segunda vuelta optamos por utilizar el framework (generador de base de datos a partir de modelo y migraciones pedir a eric)\n\n\n\nDiagrma Final 15/12/2023\n\n\n(comentar los cambios de las diferencias de la base de datos)"
-  },
-  {
-    "objectID": "documentation/mockup.html",
-    "href": "documentation/mockup.html",
-    "title": "Mockup",
-    "section": "",
-    "text": "Figma Mockup\n\n\nNos basamo en el siguiente diseño el cual testeamos y probamos que nos convenciese para crear una linea de desarrollo común y pactada."
-  },
-  {
-    "objectID": "documentation/mockup.html#diseño-base",
-    "href": "documentation/mockup.html#diseño-base",
-    "title": "Mockup",
-    "section": "",
-    "text": "Figma Mockup\n\n\nNos basamo en el siguiente diseño el cual testeamos y probamos que nos convenciese para crear una linea de desarrollo común y pactada."
-  },
-  {
-    "objectID": "Apartados/MockUp.html#diseño-base",
-    "href": "Apartados/MockUp.html#diseño-base",
-    "title": "Mockup",
-    "section": "",
-    "text": "Figma Mockup\n\n\nNos basamos en el siguiente diseño el cual testeamos y probamos que nos convenciese para crear una linea de desarrollo común y pactada."
-  },
-  {
-    "objectID": "Apartados/MockUp.html#diseño-final",
-    "href": "Apartados/MockUp.html#diseño-final",
-    "title": "Mockup",
-    "section": "Diseño Final",
-    "text": "Diseño Final"
-  },
-  {
-    "objectID": "about.html#ilias",
-    "href": "about.html#ilias",
-    "title": "About",
-    "section": "",
-    "text": "Perfil de GitHub de Ilias"
-  },
-  {
-    "objectID": "about.html#eric",
-    "href": "about.html#eric",
-    "title": "About",
-    "section": "",
-    "text": "Perfil de GitHub de Eric"
-  },
-  {
-    "objectID": "about.html#experiencia",
-    "href": "about.html#experiencia",
-    "title": "About",
-    "section": "experiencia",
-    "text": "experiencia\nEric"
-  },
-  {
-    "objectID": "about.html#guil",
-    "href": "about.html#guil",
-    "title": "About",
-    "section": "Guil",
-    "text": "Guil"
-  },
-  {
-    "objectID": "about.html#guillermo",
-    "href": "about.html#guillermo",
-    "title": "About",
-    "section": "",
-    "text": "Perfil de GitHub de Guillermo"
-  },
-  {
-    "objectID": "about.html#david",
-    "href": "about.html#david",
-    "title": "About",
-    "section": "",
-    "text": "Perfil de GitHub de David"
-  },
-  {
-    "objectID": "Apartados/Tools.html#tecnologias-usadas",
-    "href": "Apartados/Tools.html#tecnologias-usadas",
-    "title": "Herramientas",
-    "section": "Tecnologias Usadas",
-    "text": "Tecnologias Usadas\n\nASP.NET Core 6.0\nSSMS\nInyección de Dependencias\nBootstrap\nDocumentación Quarto\nTrello para uso de metodologia Agile (Kanban)"
-  },
-  {
-    "objectID": "Apartados/Estimations.html#tabla",
-    "href": "Apartados/Estimations.html#tabla",
-    "title": "Estimaciones",
-    "section": "",
-    "text": "Tarea\n\n\nEstimación Eric\n\n\nEstimación Ilias\n\n\nEstimación Guillermo\n\n\nEstimación David\n\n\nEstimación Grupo\n\n\nHoras Invertidas\n\n\n\n\n\n\nTaskName1\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName2\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName3\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName4\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName5\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName6\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName7\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours"
-  },
-  {
-    "objectID": "Apartados/Comentaries.html",
-    "href": "Apartados/Comentaries.html",
-    "title": "Comentarios",
-    "section": "",
-    "text": "Anotaciones de cosas que hicimos bien\n\n\nAnotaciones De cosas que hicimos mal\nUna vez que se ha creado el backlog, es importante mantenerlo regularmente para mantenerse al día con el programa. Los propietarios del producto deben revisar el backlog antes de cada reunión de planificación de iteración para asegurarse de que la priorización sea correcta y se haya incorporado la retroalimentación de la última iteración.\nCuando el backlog crece, los propietarios del producto deben agrupar los elementos en próximos y a largo plazo. Los elementos a corto plazo deben estar completamente desarrollados antes de etiquetarlos como tales. Esto significa que se han redactado historias de usuario completas, se ha coordinado con el diseño y el desarrollo, y se han hecho estimaciones por parte del equipo de desarrollo. Los elementos a largo plazo pueden permanecer un poco vagos, aunque es una buena idea obtener una estimación aproximada del equipo de desarrollo para ayudar a priorizarlos. La palabra clave aquí es “aproximada”: las estimaciones cambiarán una vez que el equipo comprenda completamente y comience a trabajar en esos elementos a largo plazo.\nEl backlog sirve como la conexión entre el propietario del producto y el equipo de desarrollo. El propietario del producto puede volver a priorizar el trabajo en el backlog en cualquier momento debido a la retroalimentación del cliente, la refinación de las estimaciones y los nuevos requisitos. Sin embargo, una vez que el trabajo está en progreso, es recomendable realizar cambios mínimos, ya que interrumpen al equipo de desarrollo y afectan al enfoque, flujo y moral.\nCONSEJO PROFESIONAL: Una vez que el backlog crece más allá de la capacidad a largo plazo del equipo, está bien cerrar problemas a los que el equipo nunca llegará. Etiqueta esos problemas con una resolución específica como “fuera de alcance” en el sistema de seguimiento de problemas del equipo para usarlos en investigaciones futuras.\nPatrones a evitar:\n\nEl propietario del producto prioriza el backlog al comienzo del proyecto, pero no lo ajusta a medida que llega la retroalimentación de los desarrolladores y las partes interesadas.\nEl equipo limita los elementos en el backlog a aquellos que son visibles para el cliente.\nEl backlog se mantiene como un documento almacenado localmente y se comparte infrecuentemente, lo que impide que las partes interesadas reciban actualizaciones."
+    "text": "Comandos de quarto para actualizar y gestionar el proyecto.\n\n\nTerminal – quarto create project website\n\n\n\nrender project in current dir\n– quarto render\n\n\n\n– quarto preview\n\n\n\n– quarto publish gh-pages (y)"
   },
   {
     "objectID": "documentation/documentation.html#comandos",
@@ -278,19 +201,5 @@
     "title": "Uso de Quarto",
     "section": "",
     "text": "Comandos de quarto para actualizar y gestionar el proyecto.\n\n\nTerminal – quarto create project website\n\n\n\nrender project in current dir\n– quarto render\n\n\n\n– quarto preview\n\n\n\n– quarto publish gh-pages (y)"
-  },
-  {
-    "objectID": "Apartados/Sprints.html#tabla",
-    "href": "Apartados/Sprints.html#tabla",
-    "title": "Sprints&Estimaciones",
-    "section": "Tabla",
-    "text": "Tabla\n\n\n\n\n\n\nTarea\n\n\nEstimación Eric\n\n\nEstimación Ilias\n\n\nEstimación Guillermo\n\n\nEstimación David\n\n\nEstimación Grupo\n\n\nHoras Invertidas\n\n\n\n\n\n\nTaskName1\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName2\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName3\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName4\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName5\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName6\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName7\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours"
-  },
-  {
-    "objectID": "Apartados/Comentaries.html#lineas-de-futuro",
-    "href": "Apartados/Comentaries.html#lineas-de-futuro",
-    "title": "Comentarios",
-    "section": "Lineas de futuro",
-    "text": "Lineas de futuro"
   }
 ]
