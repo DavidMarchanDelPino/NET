@@ -10,3 +10,14 @@ title: "Herramientas"
 - Quarto Documentación
 - SSMS Para alojamiento de BBDD
 - Google Enviroment (PP) para la realización de una presentación
+
+
+
+## Tecnologias Usadas
+
+- ASP.NET Core 6.0
+- SSMS
+- Inyección de Dependencias
+- Bootstrap
+- Documentación Quarto 
+- Trello para uso de metodologia Agile (Kanban)

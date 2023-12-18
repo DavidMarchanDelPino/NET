@@ -1,23 +1,15 @@
 ---
-title: "Documentation"
+title: "Uso de Quarto"
 
 ---
-## Basic Commands
+## Comandos
 
-### Create
 Comandos de quarto para actualizar y gestionar el proyecto.
 
-Terminal
--- quarto create project
+### Create
 
-Output
- ? Type
- ❯ default
-   website
-   blog
-   manuscript
-   book
-   confluence
+Terminal
+-- quarto create project website
 
 ### Render
 render project in current dir
@@ -28,6 +20,9 @@ render project in current dir
 
 -- quarto preview
 
+### Publish 
+
+-- quarto publish gh-pages (y)
 
 
 

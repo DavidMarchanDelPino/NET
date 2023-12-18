@@ -13,5 +13,5 @@ title: "Diseño General"
 - Venimos de un mundo de foros donde no se concretan equipos vs un entorno más visual y moderno
 
 
-![Foro Lol](../img/ForoLoL.png)
+![Foro Lol](../img/ForoLoL.png){fig-align="left"}
 

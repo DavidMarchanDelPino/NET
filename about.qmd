@@ -1,8 +1,23 @@
 ---
 title: "About"
 ---
+# Sobre Nosotros
 
-Somos un equipo de programadores en proceso de creacion de un poyecto full stack basado en las tecnologias:
+Somos un equipo de programadores junior en proceso de creación de un proyecto full stack. Estamos desarrollando este proyecto como parte de nuestro proyecto final en el bootcamp de .NET en Fundación Esplai. Aquí están los miembros del equipo:
 
-- SSMS
-- .NET
+## Ilias
+
+[Perfil de GitHub de Ilias](https://github.com/IliasVilux)
+
+## Eric
+
+[Perfil de GitHub de Eric](https://github.com/ericnaranjoolmo150)
+
+## Guillermo
+
+[Perfil de GitHub de Guillermo](https://github.com/Sanp393)
+
+## David
+
+[Perfil de GitHub de David](https://github.com/DavidMarchanDelPino)
+

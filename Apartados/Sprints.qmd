@@ -1,5 +1,5 @@
 ---
-title: "Sprints"
+title: "Sprints&Estimaciones"
 
 ---
 
@@ -44,3 +44,89 @@ title: "Sprints"
 - **Día 13:** Implementación del sistema de calificaciones y comentarios (10 horas)
 - **Día 14:** Diseño de la interfaz de comentarios (6 horas)
 - **Día 15:** Pruebas finales y ajustes (8 horas)
+
+
+
+## Tabla
+
+<div style="table-format-container">
+  <table class="table-format">
+    <thead>
+      <tr>
+        <th>Tarea</th>
+        <th>Estimación Eric</th>
+        <th>Estimación Ilias</th>
+        <th>Estimación Guillermo</th>
+        <th>Estimación David</th>
+        <th>Estimación Grupo</th>
+        <th>Horas Invertidas</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>TaskName1</td>
+        <td>ValEric</td>
+        <td>ValIlias</td>
+        <td>ValGuillermo</td>
+        <td>ValDavid</td>
+        <td>ValGrupo</td>
+        <td>FinalHours</td>
+      </tr>
+      <tr>
+        <td>TaskName2</td>
+        <td>ValEric</td>
+        <td>ValIlias</td>
+        <td>ValGuillermo</td>
+        <td>ValDavid</td>
+        <td>ValGrupo</td>
+        <td>FinalHours</td>
+      </tr>
+      <tr>
+        <td>TaskName3</td>
+        <td>ValEric</td>
+        <td>ValIlias</td>
+        <td>ValGuillermo</td>
+        <td>ValDavid</td>
+        <td>ValGrupo</td>
+        <td>FinalHours</td>
+      </tr>
+      <tr>
+        <td>TaskName4</td>
+        <td>ValEric</td>
+        <td>ValIlias</td>
+        <td>ValGuillermo</td>
+        <td>ValDavid</td>
+        <td>ValGrupo</td>
+        <td>FinalHours</td>
+      </tr>
+      <tr>
+        <td>TaskName5</td>
+        <td>ValEric</td>
+        <td>ValIlias</td>
+        <td>ValGuillermo</td>
+        <td>ValDavid</td>
+        <td>ValGrupo</td>
+        <td>FinalHours</td>
+      </tr>
+      <tr>
+        <td>TaskName6</td>
+        <td>ValEric</td>
+        <td>ValIlias</td>
+        <td>ValGuillermo</td>
+        <td>ValDavid</td>
+        <td>ValGrupo</td>
+        <td>FinalHours</td>
+      </tr>
+      <tr>
+        <td>TaskName7</td>
+        <td>ValEric</td>
+        <td>ValIlias</td>
+        <td>ValGuillermo</td>
+        <td>ValDavid</td>
+        <td>ValGrupo</td>
+        <td>FinalHours</td>
+      </tr>
+      <!-- Agrega más filas según sea necesario -->
+    </tbody>
+  </table>
+</div>

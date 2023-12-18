@@ -2,24 +2,20 @@ project:
   type: website
 
 website:
-  title: "NET"
+  title: "SummonerMatch"
   navbar:
     background: info
     search: true
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - ./documentation/documentation.qmd
       - ./Apartados/ProductBacklog.qmd
       - ./Apartados/GeneralDesign.qmd
       - ./Apartados/Sprints.qmd
-      - ./Apartados/Estimations.qmd
       - ./Apartados/ToDo.qmd
       - ./Apartados/MockUp.qmd
       - ./Apartados/DB.qmd
       - ./Apartados/Tools.qmd
-      
+      - ./Apartados/Comentaries.qmd
+      - about.qmd
 
 format:
   html:
