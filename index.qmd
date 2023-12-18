@@ -21,13 +21,16 @@ format:
 
 ## Tecnologias Usadas
 
-- .NET
+- ASP.NET Core 6.0
 - SSMS
-- ...
+- Inyección de Dependencias
+- Bootstrap
+- Documentación Quarto 
+- Trello para uso de metodologia Agile (Kanban)
 
 #### Preparación del Proyecto final:
 
-# Proyecto de Aplicación Web - "Tinder de Jugadores de Videojuegos en Línea"
+# Proyecto de Aplicación Web - "SummonerMatch Juega en Equipo"
 
 ## Preparación del Proyecto
 

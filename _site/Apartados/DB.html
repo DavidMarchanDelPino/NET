@@ -175,8 +175,11 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#diseño-de-la-base-de-datos" id="toc-diseño-de-la-base-de-datos" class="nav-link active" data-scroll-target="#diseño-de-la-base-de-datos">Diseño de la Base de Datos</a></li>
-  <li><a href="#database-creation-script" id="toc-database-creation-script" class="nav-link" data-scroll-target="#database-creation-script">Database Creation Script</a></li>
+  <li><a href="#diseño-de-la-base-de-datos" id="toc-diseño-de-la-base-de-datos" class="nav-link active" data-scroll-target="#diseño-de-la-base-de-datos">Diseño de la Base de Datos</a>
+  <ul class="collapse">
+  <li><a href="#script-base-de-datos" id="toc-script-base-de-datos" class="nav-link" data-scroll-target="#script-base-de-datos">Script Base de Datos</a></li>
+  </ul></li>
+  <li><a href="#diseño-final-base-de-datos" id="toc-diseño-final-base-de-datos" class="nav-link" data-scroll-target="#diseño-final-base-de-datos">Diseño final Base de Datos</a></li>
   </ul>
 </nav>
     </div>
@@ -200,18 +203,17 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 </header>
 
-<section id="diseño-de-la-base-de-datos" class="level3">
-<h3 class="anchored" data-anchor-id="diseño-de-la-base-de-datos">Diseño de la Base de Datos</h3>
+<section id="diseño-de-la-base-de-datos" class="level2">
+<h2 class="anchored" data-anchor-id="diseño-de-la-base-de-datos">Diseño de la Base de Datos</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="../img/DiagramDDBB.jpeg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Initial DDBB Diagram 05/12/2023</figcaption>
+<figcaption class="figure-caption">Diagrma inicial 05/12/2023</figcaption>
 </figure>
 </div>
-</section>
-<section id="database-creation-script" class="level3">
-<h3 class="anchored" data-anchor-id="database-creation-script">Database Creation Script</h3>
-<p>This script creates tables for the SummonerMatch database, including: - Equipo - ImagenPerfil - Partida - Posicion - Rango - RegionServidor - TipoPartida - Torneo - Usuario - Valoracion</p>
+<section id="script-base-de-datos" class="level3">
+<h3 class="anchored" data-anchor-id="script-base-de-datos">Script Base de Datos</h3>
+<p>Este script crea las tablas de la primera verisión de la Base de Datos SummonerMatch: - Equipo - ImagenPerfil - Partida - Posicion - Rango - RegionServidor - TipoPartida - Torneo - Usuario - Valoracion</p>
 <details>
 <summary>
 Click para mostrar/ocultar el contenido
@@ -451,6 +453,10 @@ Click para mostrar/ocultar el contenido
 <span id="lst-sql-script-231"><a href="#lst-sql-script-231" aria-hidden="true" tabindex="-1"></a>GO</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </details>
+</section>
+</section>
+<section id="diseño-final-base-de-datos" class="level2">
+<h2 class="anchored" data-anchor-id="diseño-final-base-de-datos">Diseño final Base de Datos</h2>
 
 
 </section>

@@ -3,5 +3,13 @@ title: "Mockup"
 
 ---
 
-### Mockup del Front End + UX (Usabilidad)
-- [Adjuntar aquí los mockups de las interfaces de usuario]
+
+## Diseño Base
+
+![Figma Mockup](../img/FigmaMockup.png)
+
+Nos basamos en el siguiente diseño el cual testeamos y probamos que nos convenciese para crear una linea de desarrollo común y pactada. 
+
+
+## Diseño Final 
+

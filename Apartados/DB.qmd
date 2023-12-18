@@ -3,14 +3,14 @@ title: "Base de Datos"
 
 ---
 
-### Diseño de la Base de Datos
+## Diseño de la Base de Datos
 
-![Initial DDBB Diagram 05/12/2023](../img/DiagramDDBB.jpeg)
+![Diagrma inicial 05/12/2023](../img/DiagramDDBB.jpeg)
 
 
-### Database Creation Script
+### Script Base de Datos
 
-  This script creates tables for the SummonerMatch database, including:
+  Este script crea las tablas de la primera verisión de la Base de Datos SummonerMatch:
   - Equipo
   - ImagenPerfil
   - Partida
@@ -259,3 +259,6 @@ ALTER TABLE [dbo].[Valoracion] CHECK CONSTRAINT [FK_Valoracion_usuario]
 GO
 ```
 </details>
+
+
+## Diseño final Base de Datos

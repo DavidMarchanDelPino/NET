@@ -11,7 +11,7 @@ title: "Sprints"
 5. Fase de Calificaciones y Comentarios
 
 
-# Estimaciones y Tareas por Sprint
+# Estimaciones y Tareas por Sprint (Inicial)
 
 ## Período Total: 2 Semanas (10 Días de Trabajo)
 

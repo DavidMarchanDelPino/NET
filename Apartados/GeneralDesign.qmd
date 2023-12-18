@@ -5,5 +5,13 @@ title: "Diseño General"
 
 ### Diseño General
 - Paleta de colores: [Incluir aquí la paleta de colores]
-- Tipografía: [Especificar la tipografía utilizada]
-- Identidad visual: [Describir la identidad visual de la aplicación]
+    - Usaremos colores y estilos a la pagina del LoL (League of Legends), juego en el que basamos el MVP (Minimun Viable Project).
+    
+    [Link a LoL](https://www.leagueoflegends.com/es-es/)
+
+- Valoramos que para destacar dado el tiempo disponible nos basaremos en el uso principalmente de botones o Cards para que el usuario dispona de una mejor UX.
+- Venimos de un mundo de foros donde no se concretan equipos vs un entorno más visual y moderno
+
+
+![Foro Lol](../img/ForoLoL.png)
+
