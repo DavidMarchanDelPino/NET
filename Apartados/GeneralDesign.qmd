@@ -5,13 +5,16 @@ title: "Diseño General"
 
 ### Diseño General
 - Paleta de colores: [Incluir aquí la paleta de colores]
-    - Usaremos colores y estilos a la pagina del LoL (League of Legends), juego en el que basamos el MVP (Minimun Viable Project).
+    - Usaremos colores y estilos a la pagina del LoL (League of Legends), juego en el que basamos el MVP (Minimun Viable Project)
     
     [Link a LoL](https://www.leagueoflegends.com/es-es/)
 
-- Valoramos que para destacar dado el tiempo disponible nos basaremos en el uso principalmente de botones o Cards para que el usuario dispona de una mejor UX.
+- Valoramos que para destacar dado el tiempo disponible nos basaremos en el uso principalmente de botones o cards para que el usuario dispona de una mejor UX
+
 - Venimos de un mundo de foros donde no se concretan equipos vs un entorno más visual y moderno
 
-
-![Foro Lol](../img/ForoLoL.png){fig-align="left"}
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="../img/ForoLoL.png" alt="Imagen 1" style="flex: 50%; max-width: 49%;">
+  <img src="../img/ForoLoL.png" alt="Imagen 2" style="flex: 50%; max-width: 49%;">
+</div>
 

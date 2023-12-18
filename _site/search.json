@@ -25,35 +25,56 @@
     "href": "Apartados/Tools.html",
     "title": "Herramientas",
     "section": "",
-    "text": "Trello para la gestión de tareas\nSlack para la comunicación en equipo ? No usado –&gt; WhatsApp\nGitHub para el control de versiones\nQuarto Documentación\nSSMS Para alojamiento de BBDD\nGoogle Enviroment (PP) para la realización de una presentación"
+    "text": "Herramienta para la gestión de tareas y proyectos.\nFacilita la organización de proyectos mediante tableros, listas y tarjetas.\n\n\n\n\n\nPlataforma de mensajería utilizada para la comunicación en equipo.\nPermite la colaboración y la rápida transmisión de información.\n\n\n\n\n\nPlataforma de control de versiones para el desarrollo colaborativo de software.\nOfrece seguimiento de cambios, control de acceso y colaboración eficiente.\n\n\n\n\n\nHerramienta de creación y gestión de documentos, útil para la documentación del proyecto.\nFacilita la colaboración en la creación y edición de documentos.\n\n\n\n\n\nAmbiente de Google, incluyendo Google Slides (Presentaciones), utilizado para la realización de presentaciones.\nPermite crear y compartir presentaciones de manera colaborativa en línea."
   },
   {
-    "objectID": "Apartados/Tools.html#tecnologias-usadas",
-    "href": "Apartados/Tools.html#tecnologias-usadas",
+    "objectID": "Apartados/Tools.html#herramientas-de-gestión-de-proyecto",
+    "href": "Apartados/Tools.html#herramientas-de-gestión-de-proyecto",
     "title": "Herramientas",
-    "section": "Tecnologias Usadas",
-    "text": "Tecnologias Usadas\n\nASP.NET Core 6.0\nSSMS\nInyección de Dependencias\nBootstrap\nDocumentación Quarto\nTrello para uso de metodologia Agile (Kanban)"
+    "section": "",
+    "text": "Herramienta para la gestión de tareas y proyectos.\nFacilita la organización de proyectos mediante tableros, listas y tarjetas.\n\n\n\n\n\nPlataforma de mensajería utilizada para la comunicación en equipo.\nPermite la colaboración y la rápida transmisión de información.\n\n\n\n\n\nPlataforma de control de versiones para el desarrollo colaborativo de software.\nOfrece seguimiento de cambios, control de acceso y colaboración eficiente.\n\n\n\n\n\nHerramienta de creación y gestión de documentos, útil para la documentación del proyecto.\nFacilita la colaboración en la creación y edición de documentos.\n\n\n\n\n\nAmbiente de Google, incluyendo Google Slides (Presentaciones), utilizado para la realización de presentaciones.\nPermite crear y compartir presentaciones de manera colaborativa en línea."
+  },
+  {
+    "objectID": "Apartados/Tools.html#tecnologías-y-herramientas",
+    "href": "Apartados/Tools.html#tecnologías-y-herramientas",
+    "title": "Herramientas",
+    "section": "Tecnologías y Herramientas",
+    "text": "Tecnologías y Herramientas\n\nASP.NET Core 6.0 MVC\n\nFramework para construir aplicaciones web modernas basadas en el patrón Model-View-Controller (MVC).\nEntorno de ejecución multiplataforma y código abierto.\n\n\n\nSSMS (SQL Server Management Studio)\n\nHerramienta de administración gráfica para Microsoft SQL Server.\nUtilizada para administrar bases de datos, realizar consultas SQL y tareas de administración.\n\n\n\nInyección de Dependencias\n\nPatrón de diseño y técnica para gestionar dependencias en un objeto.\nEn ASP.NET Core, facilita la gestión de componentes y servicios, mejorando la modularidad del código.\n\n\n\nBootstrap\n\nFramework de diseño front-end para desarrollar interfaces de usuario (UI) responsivas y atractivas.\nProporciona estilos, componentes y scripts JavaScript para agilizar el desarrollo web.\nUtiliza un sistema de rejilla para crear diseños flexibles y adaptables.\n\nEstas tecnologías y herramientas son complementarias, proporcionando una base sólida para el desarrollo de aplicaciones web modernas y eficientes.\n\n\nVisual Studio & Visual Studio Code"
   },
   {
     "objectID": "Apartados/Sprints.html",
     "href": "Apartados/Sprints.html",
     "title": "Sprints&Estimaciones",
     "section": "",
-    "text": "Fase de Registro y Perfiles de Usuario\nFase de Búsqueda y Matchmaking\nFase de Mensajería y Notificaciones\nFase de Integración con Redes Sociales\nFase de Calificaciones y Comentarios"
+    "text": "Proyecto realizado entre el 5/12/2023 y el 21/12/2023"
   },
   {
-    "objectID": "Apartados/Sprints.html#período-total-2-semanas-10-días-de-trabajo",
-    "href": "Apartados/Sprints.html#período-total-2-semanas-10-días-de-trabajo",
+    "objectID": "Apartados/Sprints.html#sprint-1-días-5-8115-días-login-registro-backend-y-base-de-datos",
+    "href": "Apartados/Sprints.html#sprint-1-días-5-8115-días-login-registro-backend-y-base-de-datos",
     "title": "Sprints&Estimaciones",
-    "section": "Período Total: 2 Semanas (10 Días de Trabajo)",
-    "text": "Período Total: 2 Semanas (10 Días de Trabajo)\n\nSprint 1 (Días 1-3)\n\nRegistro y Perfiles de Usuario\nDía 1: Desarrollo del formulario de registro (8 horas)\nDía 2: Diseño de la interfaz de perfiles de usuario (6 horas)\nDía 3: Implementación de la funcionalidad de edición de perfil (8 horas)\n\n\n\nSprint 2 (Días 4-6)\n\nBúsqueda y Matchmaking\nDía 4: Implementación del algoritmo de búsqueda y matchmaking (10 horas)\nDía 5: Desarrollo de la función de ver perfiles de otros jugadores (6 horas)\nDía 6: Optimización del algoritmo de matchmaking (8 horas)\n\n\n\nSprint 3 (Días 7-9)\n\nMensajería y Notificaciones\nDía 7: Desarrollo del sistema de mensajería (8 horas)\nDía 8: Configuración de las notificaciones en tiempo real (6 horas)\nDía 9: Diseño de la interfaz de notificaciones (4 horas)\n\n\n\nSprint 4 (Días 10-12)\n\nIntegración con Redes Sociales\nDía 10: Integración de la autenticación con redes sociales (8 horas)\nDía 11: Compartir actividad en redes sociales (6 horas)\nDía 12: Configuración de opciones de privacidad (6 horas)\n\n\n\nSprint 5 (Días 13-15)\n\nCalificaciones y Comentarios\nDía 13: Implementación del sistema de calificaciones y comentarios (10 horas)\nDía 14: Diseño de la interfaz de comentarios (6 horas)\nDía 15: Pruebas finales y ajustes (8 horas)"
+    "section": "Sprint 1 (Días (5-8)+11)[5 Días]: Login, Registro, Backend y Base de Datos",
+    "text": "Sprint 1 (Días (5-8)+11)[5 Días]: Login, Registro, Backend y Base de Datos\n\nDía 1: Desarrollo del formulario de login y registro\nDía 2: Implementación del backend para autenticación\nDía 3: Configuración de la base de datos\nDía 4: Integración del registro con la base de datos\nDía 5: Pruebas y ajustes iniciales"
+  },
+  {
+    "objectID": "Apartados/Sprints.html#sprint-2-días-12-165-días-menú-principal-perfil-de-usuario-cards-y-refinamiento-de-la-db",
+    "href": "Apartados/Sprints.html#sprint-2-días-12-165-días-menú-principal-perfil-de-usuario-cards-y-refinamiento-de-la-db",
+    "title": "Sprints&Estimaciones",
+    "section": "Sprint 2 (Días 12-16)[5 Días]: Menú Principal, Perfil de Usuario, Cards y Refinamiento de la DB",
+    "text": "Sprint 2 (Días 12-16)[5 Días]: Menú Principal, Perfil de Usuario, Cards y Refinamiento de la DB\n\nDía 6: Desarrollo del menú principal\nDía 7: Diseño e implementación del perfil de usuario\nDía 8: Creación y visualización de cards en el menú principal\nDía 9: Readecuación de la base de datos según nuevas funcionalidades\nDía 10: Pruebas y ajustes de la interfaz"
+  },
+  {
+    "objectID": "Apartados/Sprints.html#sprint-3-días-17-215-días-refinamiento-de-vistas-filtros-documentación-y-presentación",
+    "href": "Apartados/Sprints.html#sprint-3-días-17-215-días-refinamiento-de-vistas-filtros-documentación-y-presentación",
+    "title": "Sprints&Estimaciones",
+    "section": "Sprint 3 (Días 17-21)[5 Días]: Refinamiento de Vistas, Filtros, Documentación y Presentación",
+    "text": "Sprint 3 (Días 17-21)[5 Días]: Refinamiento de Vistas, Filtros, Documentación y Presentación\n\nDía 11: Refinamiento de las vistas de usuario\nDía 12: Implementación de filtros en el menú principal\nDía 13: Documentación del código y funcionalidades\nDía 14: Preparación de la presentación en PowerPoint\nDía 15: Pruebas finales, ajustes y preparación para la presentación"
   },
   {
     "objectID": "Apartados/Sprints.html#tabla",
     "href": "Apartados/Sprints.html#tabla",
     "title": "Sprints&Estimaciones",
     "section": "Tabla",
-    "text": "Tabla\n\n\n\n\n\n\nTarea\n\n\nEstimación Eric\n\n\nEstimación Ilias\n\n\nEstimación Guillermo\n\n\nEstimación David\n\n\nEstimación Grupo\n\n\nHoras Invertidas\n\n\n\n\n\n\nTaskName1\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName2\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName3\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName4\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName5\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName6\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours\n\n\n\n\nTaskName7\n\n\nValEric\n\n\nValIlias\n\n\nValGuillermo\n\n\nValDavid\n\n\nValGrupo\n\n\nFinalHours"
+    "text": "Tabla\n\n\n\n\n\n\nTarea\n\n\nEstimación Eric\n\n\nEstimación Ilias\n\n\nEstimación Guillermo\n\n\nEstimación David\n\n\nEstimación Grupo\n\n\nHoras Invertidas\n\n\n\n\n\n\nDesarrollo del formulario de login y registro\n\n\n8\n\n\n6\n\n\n7\n\n\n8\n\n\n29\n\n\n30\n\n\n\n\nImplementación del backend para autenticación\n\n\n8\n\n\n7\n\n\n8\n\n\n8\n\n\n31\n\n\n32\n\n\n\n\nConfiguración de la base de datos\n\n\n6\n\n\n6\n\n\n5\n\n\n6\n\n\n23\n\n\n24\n\n\n\n\nIntegración del registro con la base de datos\n\n\n6\n\n\n6\n\n\n7\n\n\n6\n\n\n25\n\n\n26\n\n\n\n\nPruebas y ajustes iniciales\n\n\n6\n\n\n6\n\n\n6\n\n\n6\n\n\n24\n\n\n25\n\n\n\n\nDesarrollo del menú principal\n\n\n8\n\n\n7\n\n\n8\n\n\n7\n\n\n30\n\n\n31\n\n\n\n\nDiseño e implementación del perfil de usuario\n\n\n8\n\n\n8\n\n\n7\n\n\n8\n\n\n31\n\n\n32\n\n\n\n\nCreación y visualización de cards en el menú principal\n\n\n8\n\n\n8\n\n\n7\n\n\n8\n\n\n31\n\n\n32\n\n\n\n\nReadecuación de la base de datos según nuevas funcionalidades\n\n\n8\n\n\n8\n\n\n7\n\n\n8\n\n\n31\n\n\n32\n\n\n\n\nPruebas y ajustes de la interfaz\n\n\n8\n\n\n8\n\n\n7\n\n\n8\n\n\n31\n\n\n32\n\n\n\n\nRefinamiento de las vistas de usuario\n\n\n8\n\n\n8\n\n\n7\n\n\n8\n\n\n31\n\n\n32\n\n\n\n\nImplementación de filtros en el menú principal\n\n\n8\n\n\n8\n\n\n7\n\n\n8\n\n\n31\n\n\n32\n\n\n\n\nDocumentación del código y funcionalidades\n\n\n8\n\n\n8\n\n\n7\n\n\n8\n\n\n31\n\n\n32\n\n\n\n\nPreparación de la presentación en PowerPoint\n\n\n8\n\n\n8\n\n\n7\n\n\n8\n\n\n31\n\n\n32\n\n\n\n\nPruebas finales, ajustes y preparación para la presentación\n\n\n8\n\n\n8\n\n\n7\n\n\n8\n\n\n31\n\n\n32"
   },
   {
     "objectID": "Apartados/MockUp.html",
@@ -144,7 +165,7 @@
     "href": "Apartados/GeneralDesign.html",
     "title": "Diseño General",
     "section": "",
-    "text": "Diseño General\n\nPaleta de colores: [Incluir aquí la paleta de colores]\n\nUsaremos colores y estilos a la pagina del LoL (League of Legends), juego en el que basamos el MVP (Minimun Viable Project).\n\nLink a LoL\nValoramos que para destacar dado el tiempo disponible nos basaremos en el uso principalmente de botones o Cards para que el usuario dispona de una mejor UX.\nVenimos de un mundo de foros donde no se concretan equipos vs un entorno más visual y moderno\n\n\n\n\nForo Lol"
+    "text": "Diseño General\n\nPaleta de colores: [Incluir aquí la paleta de colores]\n\nUsaremos colores y estilos a la pagina del LoL (League of Legends), juego en el que basamos el MVP (Minimun Viable Project)\n\nLink a LoL\nValoramos que para destacar dado el tiempo disponible nos basaremos en el uso principalmente de botones o cards para que el usuario dispona de una mejor UX\nVenimos de un mundo de foros donde no se concretan equipos vs un entorno más visual y moderno"
   },
   {
     "objectID": "Apartados/ProductBacklog.html",
@@ -179,7 +200,14 @@
     "href": "Apartados/ProductBacklog.html#card-torneo-e-interacciónmismas-especificaciones-de-partida",
     "title": "Product Backlog",
     "section": "CARD TORNEO e Interacción:(mismas especificaciones de Partida)",
-    "text": "CARD TORNEO e Interacción:(mismas especificaciones de Partida)\nLos torneos los crea el administrador manualmente (Hora y Dia) Mínimo 4 equipos por torneo Tiempo de inscripción de 3h Los cierra el administrador //La idea murió y se opto por lo siguiente"
+    "text": "CARD TORNEO e Interacción:(mismas especificaciones de Partida)\nLos torneos los crea el administrador manualmente (Hora y Dia) Mínimo 4 equipos por torneo Tiempo de inscripción de 3h Los cierra el administrador"
+  },
+  {
+    "objectID": "Apartados/ProductBacklog.html#ods",
+    "href": "Apartados/ProductBacklog.html#ods",
+    "title": "Product Backlog",
+    "section": "ODS",
+    "text": "ODS\n\nODS 3: Salud y Bienestar:\nFomentar la colaboración y el trabajo en equipo en actividades físicas y deportivas puede contribuir al bienestar general y a una vida saludable.\n\n\nODS 5: Igualdad de Género:\nPromover la igualdad de género en la formación y participación de equipos puede ser un aspecto relevante, fomentando la inclusión de todos los géneros.\n\n\nODS 10: Reducción de las Desigualdades:\nSi tu proyecto busca reducir las brechas y promover la igualdad de oportunidades en la formación de equipos, podría alinearse con este objetivo.\n\n\nODS 17: Alianzas para lograr los Objetivos:\nFomentar la cooperación y las alianzas entre jugadores y equipos puede contribuir a la creación de alianzas para lograr los objetivos, promoviendo la colaboración global."
   },
   {
     "objectID": "Apartados/ToDo.html",

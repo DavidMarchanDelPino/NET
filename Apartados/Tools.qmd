@@ -3,21 +3,48 @@ title: "Herramientas"
 
 ---
 
-### Herramientas de Gestión de Proyecto
-- Trello para la gestión de tareas
-- Slack para la comunicación en equipo ? No usado --> WhatsApp
-- GitHub para el control de versiones
-- Quarto Documentación
-- SSMS Para alojamiento de BBDD
-- Google Enviroment (PP) para la realización de una presentación
+## Herramientas de Gestión de Proyecto
+
+### Trello
+- Herramienta para la gestión de tareas y proyectos.
+- Facilita la organización de proyectos mediante tableros, listas y tarjetas.
+  
+### WhatsApp
+- Plataforma de mensajería utilizada para la comunicación en equipo.
+- Permite la colaboración y la rápida transmisión de información.
+
+### GitHub
+- Plataforma de control de versiones para el desarrollo colaborativo de software.
+- Ofrece seguimiento de cambios, control de acceso y colaboración eficiente.
+
+### Quarto Documentación
+- Herramienta de creación y gestión de documentos, útil para la documentación del proyecto.
+- Facilita la colaboración en la creación y edición de documentos.
+
+### Google Environment (PP)
+- Ambiente de Google, incluyendo Google Slides (Presentaciones), utilizado para la realización de presentaciones.
+- Permite crear y compartir presentaciones de manera colaborativa en línea.
 
 
+## Tecnologías y Herramientas
 
-## Tecnologias Usadas
+### ASP.NET Core 6.0 MVC
+- Framework para construir aplicaciones web modernas basadas en el patrón Model-View-Controller (MVC).
+- Entorno de ejecución multiplataforma y código abierto.
 
-- ASP.NET Core 6.0
-- SSMS
-- Inyección de Dependencias
-- Bootstrap
-- Documentación Quarto 
-- Trello para uso de metodologia Agile (Kanban)
+### SSMS (SQL Server Management Studio)
+- Herramienta de administración gráfica para Microsoft SQL Server.
+- Utilizada para administrar bases de datos, realizar consultas SQL y tareas de administración.
+
+### Inyección de Dependencias
+- Patrón de diseño y técnica para gestionar dependencias en un objeto.
+- En ASP.NET Core, facilita la gestión de componentes y servicios, mejorando la modularidad del código.
+
+### Bootstrap
+- Framework de diseño front-end para desarrollar interfaces de usuario (UI) responsivas y atractivas.
+- Proporciona estilos, componentes y scripts JavaScript para agilizar el desarrollo web.
+- Utiliza un sistema de rejilla para crear diseños flexibles y adaptables.
+
+Estas tecnologías y herramientas son complementarias, proporcionando una base sólida para el desarrollo de aplicaciones web modernas y eficientes.
+
+### Visual Studio & Visual Studio Code

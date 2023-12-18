@@ -17,10 +17,10 @@ Una vez que el backlog crece más allá de la capacidad a largo plazo del equipo
 
 Patrones a evitar:
 
-- El propietario del producto prioriza el backlog al comienzo del proyecto, pero no lo ajusta a medida que llega la retroalimentación de los desarrolladores y las partes interesadas.
+- El propietario del producto prioriza el backlog al comienzo del proyecto, pero no lo ajusta a medida que llega la retroalimentación de los desarrolladores y las partes interesadas
 
-- El equipo limita los elementos en el backlog a aquellos que son visibles para el cliente.
+- El equipo limita los elementos en el backlog a aquellos que son visibles para el cliente
 
-- El backlog se mantiene como un documento almacenado localmente y se comparte infrecuentemente, lo que impide que las partes interesadas reciban actualizaciones.
+- El backlog se mantiene como un documento almacenado localmente y se comparte infrecuentemente, lo que impide que las partes interesadas reciban actualizaciones
 
 ## Lineas de futuro

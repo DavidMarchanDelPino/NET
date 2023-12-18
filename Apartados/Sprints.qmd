@@ -2,50 +2,34 @@
 title: "Sprints&Estimaciones"
 
 ---
+<!--
+del día 5 al 21
+(5-8)-(11-17)-(18-21)=4+7+4=15
+-->
+Proyecto realizado entre el 5/12/2023 y el 21/12/2023
 
-### División en Fases/Sprints
-1. Fase de Registro y Perfiles de Usuario
-2. Fase de Búsqueda y Matchmaking
-3. Fase de Mensajería y Notificaciones
-4. Fase de Integración con Redes Sociales
-5. Fase de Calificaciones y Comentarios
+# División en Fases/Sprints
 
+## Sprint 1 (Días (5-8)+11)[5 Días]: Login, Registro, Backend y Base de Datos
+- **Día 1:** Desarrollo del formulario de login y registro 
+- **Día 2:** Implementación del backend para autenticación 
+- **Día 3:** Configuración de la base de datos
+- **Día 4:** Integración del registro con la base de datos
+- **Día 5:** Pruebas y ajustes iniciales
 
-# Estimaciones y Tareas por Sprint (Inicial)
+## Sprint 2 (Días 12-16)[5 Días]: Menú Principal, Perfil de Usuario, Cards y Refinamiento de la DB
+- **Día 6:** Desarrollo del menú principal
+- **Día 7:** Diseño e implementación del perfil de usuario
+- **Día 8:** Creación y visualización de cards en el menú principal
+- **Día 9:** Readecuación de la base de datos según nuevas funcionalidades
+- **Día 10:** Pruebas y ajustes de la interfaz
 
-## Período Total: 2 Semanas (10 Días de Trabajo)
-
-### Sprint 1 (Días 1-3) 
-- Registro y Perfiles de Usuario
-- **Día 1:** Desarrollo del formulario de registro (8 horas)
-- **Día 2:** Diseño de la interfaz de perfiles de usuario (6 horas)
-- **Día 3:** Implementación de la funcionalidad de edición de perfil (8 horas)
-
-### Sprint 2 (Días 4-6) 
-- Búsqueda y Matchmaking
-- **Día 4:** Implementación del algoritmo de búsqueda y matchmaking (10 horas)
-- **Día 5:** Desarrollo de la función de ver perfiles de otros jugadores (6 horas)
-- **Día 6:** Optimización del algoritmo de matchmaking (8 horas)
-
-### Sprint 3 (Días 7-9) 
-- Mensajería y Notificaciones
-- **Día 7:** Desarrollo del sistema de mensajería (8 horas)
-- **Día 8:** Configuración de las notificaciones en tiempo real (6 horas)
-- **Día 9:** Diseño de la interfaz de notificaciones (4 horas)
-
-### Sprint 4 (Días 10-12) 
-- Integración con Redes Sociales
-- **Día 10:** Integración de la autenticación con redes sociales (8 horas)
-- **Día 11:** Compartir actividad en redes sociales (6 horas)
-- **Día 12:** Configuración de opciones de privacidad (6 horas)
-
-### Sprint 5 (Días 13-15) 
-- Calificaciones y Comentarios
-- **Día 13:** Implementación del sistema de calificaciones y comentarios (10 horas)
-- **Día 14:** Diseño de la interfaz de comentarios (6 horas)
-- **Día 15:** Pruebas finales y ajustes (8 horas)
-
-
+## Sprint 3 (Días 17-21)[5 Días]: Refinamiento de Vistas, Filtros, Documentación y Presentación
+- **Día 11:** Refinamiento de las vistas de usuario
+- **Día 12:** Implementación de filtros en el menú principal
+- **Día 13:** Documentación del código y funcionalidades
+- **Día 14:** Preparación de la presentación en PowerPoint 
+- **Día 15:** Pruebas finales, ajustes y preparación para la presentación 
 
 ## Tabla
 
@@ -64,69 +48,141 @@ title: "Sprints&Estimaciones"
     </thead>
     <tbody>
       <tr>
-        <td>TaskName1</td>
-        <td>ValEric</td>
-        <td>ValIlias</td>
-        <td>ValGuillermo</td>
-        <td>ValDavid</td>
-        <td>ValGrupo</td>
-        <td>FinalHours</td>
+        <td>Desarrollo del formulario de login y registro</td>
+        <td>8</td>
+        <td>6</td>
+        <td>7</td>
+        <td>8</td>
+        <td>29</td>
+        <td>30</td>
       </tr>
       <tr>
-        <td>TaskName2</td>
-        <td>ValEric</td>
-        <td>ValIlias</td>
-        <td>ValGuillermo</td>
-        <td>ValDavid</td>
-        <td>ValGrupo</td>
-        <td>FinalHours</td>
+        <td>Implementación del backend para autenticación</td>
+        <td>8</td>
+        <td>7</td>
+        <td>8</td>
+        <td>8</td>
+        <td>31</td>
+        <td>32</td>
       </tr>
       <tr>
-        <td>TaskName3</td>
-        <td>ValEric</td>
-        <td>ValIlias</td>
-        <td>ValGuillermo</td>
-        <td>ValDavid</td>
-        <td>ValGrupo</td>
-        <td>FinalHours</td>
+        <td>Configuración de la base de datos</td>
+        <td>6</td>
+        <td>6</td>
+        <td>5</td>
+        <td>6</td>
+        <td>23</td>
+        <td>24</td>
       </tr>
       <tr>
-        <td>TaskName4</td>
-        <td>ValEric</td>
-        <td>ValIlias</td>
-        <td>ValGuillermo</td>
-        <td>ValDavid</td>
-        <td>ValGrupo</td>
-        <td>FinalHours</td>
+        <td>Integración del registro con la base de datos</td>
+        <td>6</td>
+        <td>6</td>
+        <td>7</td>
+        <td>6</td>
+        <td>25</td>
+        <td>26</td>
       </tr>
       <tr>
-        <td>TaskName5</td>
-        <td>ValEric</td>
-        <td>ValIlias</td>
-        <td>ValGuillermo</td>
-        <td>ValDavid</td>
-        <td>ValGrupo</td>
-        <td>FinalHours</td>
+        <td>Pruebas y ajustes iniciales</td>
+        <td>6</td>
+        <td>6</td>
+        <td>6</td>
+        <td>6</td>
+        <td>24</td>
+        <td>25</td>
       </tr>
       <tr>
-        <td>TaskName6</td>
-        <td>ValEric</td>
-        <td>ValIlias</td>
-        <td>ValGuillermo</td>
-        <td>ValDavid</td>
-        <td>ValGrupo</td>
-        <td>FinalHours</td>
+        <td>Desarrollo del menú principal</td>
+        <td>8</td>
+        <td>7</td>
+        <td>8</td>
+        <td>7</td>
+        <td>30</td>
+        <td>31</td>
       </tr>
       <tr>
-        <td>TaskName7</td>
-        <td>ValEric</td>
-        <td>ValIlias</td>
-        <td>ValGuillermo</td>
-        <td>ValDavid</td>
-        <td>ValGrupo</td>
-        <td>FinalHours</td>
+        <td>Diseño e implementación del perfil de usuario</td>
+        <td>8</td>
+        <td>8</td>
+        <td>7</td>
+        <td>8</td>
+        <td>31</td>
+        <td>32</td>
       </tr>
-      <!-- Agrega más filas según sea necesario -->
+      <tr>
+        <td>Creación y visualización de cards en el menú principal</td>
+        <td>8</td>
+        <td>8</td>
+        <td>7</td>
+        <td>8</td>
+        <td>31</td>
+        <td>32</td>
+      </tr>
+      <tr>
+        <td>Readecuación de la base de datos según nuevas funcionalidades</td>
+        <td>8</td>
+        <td>8</td>
+        <td>7</td>
+        <td>8</td>
+        <td>31</td>
+        <td>32</td>
+      </tr>
+      <tr>
+        <td>Pruebas y ajustes de la interfaz</td>
+        <td>8</td>
+        <td>8</td>
+        <td>7</td>
+        <td>8</td>
+        <td>31</td>
+        <td>32</td>
+      </tr>
+      <tr>
+        <td>Refinamiento de las vistas de usuario</td>
+        <td>8</td>
+        <td>8</td>
+        <td>7</td>
+        <td>8</td>
+        <td>31</td>
+        <td>32</td>
+      </tr>
+      <tr>
+        <td>Implementación de filtros en el menú principal</td>
+        <td>8</td>
+        <td>8</td>
+        <td>7</td>
+        <td>8</td>
+        <td>31</td>
+        <td>32</td>
+      </tr>
+      <tr>
+        <td>Documentación del código y funcionalidades</td>
+        <td>8</td>
+        <td>8</td>
+        <td>7</td>
+        <td>8</td>
+        <td>31</td>
+        <td>32</td>
+      </tr>
+      <tr>
+        <td>Preparación de la presentación en PowerPoint</td>
+        <td>8</td>
+        <td>8</td>
+        <td>7</td>
+        <td>8</td>
+        <td>31</td>
+        <td>32</td>
+      </tr>
+      <tr>
+        <td>Pruebas finales, ajustes y preparación para la presentación </td>
+        <td>8</td>
+        <td>8</td>
+        <td>7</td>
+        <td>8</td>
+        <td>31</td>
+        <td>32</td>
+      </tr>
     </tbody>
   </table>
 </div>
+

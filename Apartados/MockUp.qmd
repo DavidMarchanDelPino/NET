@@ -3,7 +3,6 @@ title: "Mockup"
 
 ---
 
-
 ## Diseño Base
 
 ![Figma Mockup](../img/FigmaMockup.png)

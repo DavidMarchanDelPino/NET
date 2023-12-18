@@ -18,17 +18,14 @@ Pendiente: Implementar tras hacer el mockup
 **User Stories**
 Descripciones breves de las funcionalidades desde la perspectiva del usuario. Siguen el formato:
 
-- "Como [usuario], quiero [poder registrarme de manera sencilla y personalizada] para [poder usar de manera inmediata la web]."
+- "Como [usuario], quiero [poder registrarme de manera sencilla y personalizada] para [poder usar de manera inmediata la web]"
         
-- "Como [usuario], quiero [iniciar sesion rapidamente] para [unirme a las partidas en las que quiero participar]."
+- "Como [usuario], quiero [iniciar sesion rapidamente] para [unirme a las partidas en las que quiero participar]"
         
-- "Como [usuario], quiero [poder consultar mis partidas en mi perfil] para [tener en cuenta a que partidas estoy apuntado]."
+- "Como [usuario], quiero [poder consultar mis partidas en mi perfil] para [tener en cuenta a que partidas estoy apuntado]"
     
 **Tareas**
-    - Desglose detallado de las acciones necesarias para completar las User Stories.
-
-**Bugs o Problemas**
-    - Errores o problemas identificados que necesitan ser corregidos.
+    - Desglose detallado de las acciones necesarias para completar las User Stories
 
 ## Ingreso y Registro:
 
@@ -71,4 +68,21 @@ Los torneos los crea el administrador manualmente (Hora y Dia)
 Mínimo 4 equipos por torneo
 Tiempo de inscripción de 3h
 Los cierra el administrador
-//La idea murió y se opto por lo siguiente
+
+## ODS
+
+### ODS 3: Salud y Bienestar:
+
+Fomentar la colaboración y el trabajo en equipo en actividades físicas y deportivas puede contribuir al bienestar general y a una vida saludable.
+
+### ODS 5: Igualdad de Género:
+
+Promover la igualdad de género en la formación y participación de equipos puede ser un aspecto relevante, fomentando la inclusión de todos los géneros.
+
+### ODS 10: Reducción de las Desigualdades:
+
+Si tu proyecto busca reducir las brechas y promover la igualdad de oportunidades en la formación de equipos, podría alinearse con este objetivo.
+
+### ODS 17: Alianzas para lograr los Objetivos:
+
+Fomentar la cooperación y las alianzas entre jugadores y equipos puede contribuir a la creación de alianzas para lograr los objetivos, promoviendo la colaboración global.
