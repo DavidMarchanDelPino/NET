@@ -45,6 +45,17 @@ title: "Herramientas"
 - Proporciona estilos, componentes y scripts JavaScript para agilizar el desarrollo web.
 - Utiliza un sistema de rejilla para crear diseños flexibles y adaptables.
 
-Estas tecnologías y herramientas son complementarias, proporcionando una base sólida para el desarrollo de aplicaciones web modernas y eficientes.
-
 ### Visual Studio & Visual Studio Code
+
+- **Visual Studio:**
+  - Entorno de desarrollo integrado (IDE) de Microsoft.
+  - Ofrece herramientas avanzadas para la creación, depuración y despliegue de aplicaciones.
+  - Admite el desarrollo de aplicaciones en varios lenguajes, incluyendo C#, utilizado en ASP.NET Core.
+  - Facilita la integración con ASP.NET Core para un desarrollo eficiente y la gestión de proyectos.
+
+- **Visual Studio Code:**
+  - Editor de código fuente liviano y de código abierto desarrollado por Microsoft.
+  - Diseñado para ser multiplataforma, es compatible con Windows, macOS y Linux.
+  - Ofrece una amplia gama de extensiones que permiten la integración con tecnologías específicas, como ASP.NET Core y Bootstrap.
+  - Ideal para desarrolladores que prefieren entornos de desarrollo más ligeros o que trabajan en proyectos que no requieren todas las características de un IDE completo.
+

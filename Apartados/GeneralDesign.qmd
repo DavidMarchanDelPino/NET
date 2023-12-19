@@ -14,7 +14,18 @@ title: "Diseño General"
 - Venimos de un mundo de foros donde no se concretan equipos vs un entorno más visual y moderno
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="../img/ForoLoL.png" alt="Imagen 1" style="flex: 50%; max-width: 49%;">
-  <img src="../img/ForoLoL.png" alt="Imagen 2" style="flex: 50%; max-width: 49%;">
+  <img src="../img/Design/ForoLoL.png" alt="Imagen 1" style="flex: 50%; max-width: 49%;">
+  <img src="../img/DesignForoLoL.png" alt="Imagen 2" style="flex: 50%; max-width: 49%;">
 </div>
 
+## Diseño de la aplicación 
+<!-- Explicar el diseño -->
+### Menu
+
+### Login
+
+### Register
+
+### Perfil
+
+### Partida

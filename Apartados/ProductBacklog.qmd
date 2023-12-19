@@ -5,24 +5,20 @@ title: "Product Backlog"
 
 ### Backlog de Funcionalidades
 
-Pendiente: Implementar tras hacer el mockup
-
-[Kanban](https://github.com/users/daviddevops96/#projects/1)
-
 # Nombre del proyecto: SummonerMatch
 
-**Descripción**: Una plataforma que permite a los jugadores crear o unirse a partidas del LoL (League Of Legends).
+**Descripción**: Una plataforma que permite a los jugadores crear o unirse a partidas del LoL (League Of Legends) de manera rápida y visual.
 
 **Propósito**: Que cualquier jugador pueda jugar con otras personas con el fin de mejorar su experiencia de juego y trabajo en equipo.
 
 **User Stories**
-Descripciones breves de las funcionalidades desde la perspectiva del usuario. Siguen el formato:
+Descripciones breves de las funcionalidades desde la perspectiva del usuario:
 
-- "Como [usuario], quiero [poder registrarme de manera sencilla y personalizada] para [poder usar de manera inmediata la web]"
+- "Como usuario, quiero poder registrarme de manera sencilla y personalizada para poder usar de manera inmediata la web"
         
-- "Como [usuario], quiero [iniciar sesion rapidamente] para [unirme a las partidas en las que quiero participar]"
+- "Como usuario, quiero iniciar sesion rapidamente para unirme a las partidas en las que quiero participar"
         
-- "Como [usuario], quiero [poder consultar mis partidas en mi perfil] para [tener en cuenta a que partidas estoy apuntado]"
+- "Como usuario, quiero poder consultar mis partidas en mi perfil para tener en cuenta a que partidas estoy apuntado"
     
 **Tareas**
     - Desglose detallado de las acciones necesarias para completar las User Stories

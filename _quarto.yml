@@ -10,7 +10,6 @@ website:
       - ./Apartados/ProductBacklog.qmd
       - ./Apartados/GeneralDesign.qmd
       - ./Apartados/Sprints.qmd
-      - ./Apartados/ToDo.qmd
       - ./Apartados/MockUp.qmd
       - ./Apartados/DB.qmd
       - ./Apartados/Tools.qmd

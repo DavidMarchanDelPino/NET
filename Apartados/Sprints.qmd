@@ -8,6 +8,13 @@ del día 5 al 21
 -->
 Proyecto realizado entre el 5/12/2023 y el 21/12/2023
 
+### Framework SCRUM
+
+- Reuniones diaria (daily) de 15 min para seguimiento del proyecto
+- Asignación de tareas y responsabilidades en Trello
+- Revisiones de casos de usuario al final del sprint
+- Comunicación a través de WhatsApp
+
 # División en Fases/Sprints
 
 ## Sprint 1 (Días (5-8)+11)[5 Días]: Login, Registro, Backend y Base de Datos

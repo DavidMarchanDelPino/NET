@@ -4,23 +4,11 @@ title: "Comentarios"
 
 ### Anotaciones de cosas que hicimos bien
 
-### Anotaciones De cosas que hicimos mal
+- Supimos reaccionar en el momento de tomar la iniciativa y desatascar el proceso de ejecución del proyecto. La falta de planificación o mala calidad de esta en la primera etapa del proyecto lastro el rápido avance.
 
-Una vez que se ha creado el backlog, es importante mantenerlo regularmente para mantenerse al día con el programa. Los propietarios del producto deben revisar el backlog antes de cada reunión de planificación de iteración para asegurarse de que la priorización sea correcta y se haya incorporado la retroalimentación de la última iteración.
+- Falta de comunicación en las primeraas etapas del proyecto, la deficiencia surgida de motivaciones personales e indisposiciones no ayudo a que la comunicación fluiese de manera correcta y fluida.
 
-Cuando el backlog crece, los propietarios del producto deben agrupar los elementos en próximos y a largo plazo. Los elementos a corto plazo deben estar completamente desarrollados antes de etiquetarlos como tales. Esto significa que se han redactado historias de usuario completas, se ha coordinado con el diseño y el desarrollo, y se han hecho estimaciones por parte del equipo de desarrollo. Los elementos a largo plazo pueden permanecer un poco vagos, aunque es una buena idea obtener una estimación aproximada del equipo de desarrollo para ayudar a priorizarlos. La palabra clave aquí es "aproximada": las estimaciones cambiarán una vez que el equipo comprenda completamente y comience a trabajar en esos elementos a largo plazo.
-
-El backlog sirve como la conexión entre el propietario del producto y el equipo de desarrollo. El propietario del producto puede volver a priorizar el trabajo en el backlog en cualquier momento debido a la retroalimentación del cliente, la refinación de las estimaciones y los nuevos requisitos. Sin embargo, una vez que el trabajo está en progreso, es recomendable realizar cambios mínimos, ya que interrumpen al equipo de desarrollo y afectan al enfoque, flujo y moral.
-
-CONSEJO PROFESIONAL:
-Una vez que el backlog crece más allá de la capacidad a largo plazo del equipo, está bien cerrar problemas a los que el equipo nunca llegará. Etiqueta esos problemas con una resolución específica como "fuera de alcance" en el sistema de seguimiento de problemas del equipo para usarlos en investigaciones futuras.
-
-Patrones a evitar:
-
-- El propietario del producto prioriza el backlog al comienzo del proyecto, pero no lo ajusta a medida que llega la retroalimentación de los desarrolladores y las partes interesadas
-
-- El equipo limita los elementos en el backlog a aquellos que son visibles para el cliente
-
-- El backlog se mantiene como un documento almacenado localmente y se comparte infrecuentemente, lo que impide que las partes interesadas reciban actualizaciones
+- Se puede destacar que el alcance del proyecto no fue bien calibrado dado el tiempo disponible y en pos de disponer del MVP se recortaron funcionalidades, afectando así al diseño de la propia web siendo la parte más afectada la base de datos.
 
 ## Lineas de futuro
+

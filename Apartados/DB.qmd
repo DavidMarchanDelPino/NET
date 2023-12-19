@@ -5,7 +5,7 @@ title: "DB"
 
 ## Diseño de la Base de Datos
 
-![Diagrma inicial 05/12/2023](../img/DiagramDDBB.jpeg)
+![Diagrma inicial 05/12/2023](../img/DB/DiagramDDBB.jpeg)
 
 
 ### Script Base de Datos
@@ -263,8 +263,8 @@ GO
 
 ## Diseño final Base de Datos
 
-En una segunda vuelta optamos por utilizar el framework (generador de base de datos a partir de modelo y migraciones pedir a eric)
+En una segunda vuelta optamos por utilizar el framework (generador de base de datos a partir de modelo y migraciones desde el modelo del proyecto)
 
-![Diagrma Final  15/12/2023](../img/DiagramDDBB.jpeg)
+![Diagrma Final  15/12/2023](../img/DB/DiagramDDBB.jpeg)
 
 (comentar los cambios de las diferencias de la base de datos)

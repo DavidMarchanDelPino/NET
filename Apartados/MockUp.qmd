@@ -5,10 +5,22 @@ title: "Mockup"
 
 ## Diseño Base
 
-![Figma Mockup](../img/FigmaMockup.png)
+![Figma Mockup](../img/MockUp/FigmaMockup.png)
 
 Nos basamos en el siguiente diseño el cual testeamos y probamos que nos convenciese para crear una linea de desarrollo común y pactada. 
 
-
 ## Diseño Final 
+
+### Menu
+
+### Register
+
+### Login
+
+### Crear Partida
+
+### Partida
+
+### Perfil
+
 

@@ -29,19 +29,14 @@ format:
 
 [Trello Board Name](https://trello.com/b/pGG9d7ac/summoner-match)
 
-
 ### Backlog de Funcionalidades
 [Backlog](./Apartados/ProductBacklog.qmd)
-
 
 ### Diseño General
 [Diseño General](./Apartados/GeneralDesign.qmd)
 
 ### Estimaciones y Tareas por Sprint
 [Sprints&Estimaciones](./Apartados/Sprints.qmd)
-
-### Tareas
-[Tareas](./Apartados/ToDo.qmd)
 
 ### Mockup del Front End + UX (Usabilidad)
 [Mockup](./Apartados/MockUp.qmd)
@@ -51,12 +46,6 @@ format:
 
 ### Herramientas de Gestión de Proyecto
 [Herramientas](./Apartados/Tools.qmd)
-
-### Comentar Proyecto en Equipo
-
-- Reuniones diaria (daily) de 15 min para seguimiento del proyecto
-- Comunicación a través de WhatsApp
-- Asignación de tareas y responsabilidades en Trello
 
 
 

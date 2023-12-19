@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Readme",
     "section": "",
-    "text": "Somos un equipo formado por programadores junior en busca de idear y desarrollar un producto en pos de obtener experiencia.\nEste proyecto es colaborativo.\nSe usan metodologias Agiles (SCRUM)\n\n\n\n\n\n\nTrello Board Name\n\n\n\nBacklog\n\n\n\nDiseño General\n\n\n\nSprints&Estimaciones\n\n\n\nTareas\n\n\n\nMockup\n\n\n\nDB\n\n\n\nHerramientas\n\n\n\n\nReuniones diaria (daily) de 15 min para seguimiento del proyecto\nComunicación a través de WhatsApp\nAsignación de tareas y responsabilidades en Trello"
+    "text": "Somos un equipo formado por programadores junior en busca de idear y desarrollar un producto en pos de obtener experiencia.\nEste proyecto es colaborativo.\nSe usan metodologias Agiles (SCRUM)\n\n\n\n\n\n\nTrello Board Name\n\n\n\nBacklog\n\n\n\nDiseño General\n\n\n\nSprints&Estimaciones\n\n\n\nMockup\n\n\n\nDB\n\n\n\nHerramientas"
   },
   {
     "objectID": "index.html#sobre-el-proyecto",
@@ -18,7 +18,7 @@
     "href": "index.html#preparación-del-proyecto",
     "title": "Readme",
     "section": "",
-    "text": "Trello Board Name\n\n\n\nBacklog\n\n\n\nDiseño General\n\n\n\nSprints&Estimaciones\n\n\n\nTareas\n\n\n\nMockup\n\n\n\nDB\n\n\n\nHerramientas\n\n\n\n\nReuniones diaria (daily) de 15 min para seguimiento del proyecto\nComunicación a través de WhatsApp\nAsignación de tareas y responsabilidades en Trello"
+    "text": "Trello Board Name\n\n\n\nBacklog\n\n\n\nDiseño General\n\n\n\nSprints&Estimaciones\n\n\n\nMockup\n\n\n\nDB\n\n\n\nHerramientas"
   },
   {
     "objectID": "Apartados/Tools.html",
@@ -39,7 +39,7 @@
     "href": "Apartados/Tools.html#tecnologías-y-herramientas",
     "title": "Herramientas",
     "section": "Tecnologías y Herramientas",
-    "text": "Tecnologías y Herramientas\n\nASP.NET Core 6.0 MVC\n\nFramework para construir aplicaciones web modernas basadas en el patrón Model-View-Controller (MVC).\nEntorno de ejecución multiplataforma y código abierto.\n\n\n\nSSMS (SQL Server Management Studio)\n\nHerramienta de administración gráfica para Microsoft SQL Server.\nUtilizada para administrar bases de datos, realizar consultas SQL y tareas de administración.\n\n\n\nInyección de Dependencias\n\nPatrón de diseño y técnica para gestionar dependencias en un objeto.\nEn ASP.NET Core, facilita la gestión de componentes y servicios, mejorando la modularidad del código.\n\n\n\nBootstrap\n\nFramework de diseño front-end para desarrollar interfaces de usuario (UI) responsivas y atractivas.\nProporciona estilos, componentes y scripts JavaScript para agilizar el desarrollo web.\nUtiliza un sistema de rejilla para crear diseños flexibles y adaptables.\n\nEstas tecnologías y herramientas son complementarias, proporcionando una base sólida para el desarrollo de aplicaciones web modernas y eficientes.\n\n\nVisual Studio & Visual Studio Code"
+    "text": "Tecnologías y Herramientas\n\nASP.NET Core 6.0 MVC\n\nFramework para construir aplicaciones web modernas basadas en el patrón Model-View-Controller (MVC).\nEntorno de ejecución multiplataforma y código abierto.\n\n\n\nSSMS (SQL Server Management Studio)\n\nHerramienta de administración gráfica para Microsoft SQL Server.\nUtilizada para administrar bases de datos, realizar consultas SQL y tareas de administración.\n\n\n\nInyección de Dependencias\n\nPatrón de diseño y técnica para gestionar dependencias en un objeto.\nEn ASP.NET Core, facilita la gestión de componentes y servicios, mejorando la modularidad del código.\n\n\n\nBootstrap\n\nFramework de diseño front-end para desarrollar interfaces de usuario (UI) responsivas y atractivas.\nProporciona estilos, componentes y scripts JavaScript para agilizar el desarrollo web.\nUtiliza un sistema de rejilla para crear diseños flexibles y adaptables.\n\n\n\nVisual Studio & Visual Studio Code\n\nVisual Studio:\n\nEntorno de desarrollo integrado (IDE) de Microsoft.\nOfrece herramientas avanzadas para la creación, depuración y despliegue de aplicaciones.\nAdmite el desarrollo de aplicaciones en varios lenguajes, incluyendo C#, utilizado en ASP.NET Core.\nFacilita la integración con ASP.NET Core para un desarrollo eficiente y la gestión de proyectos.\n\nVisual Studio Code:\n\nEditor de código fuente liviano y de código abierto desarrollado por Microsoft.\nDiseñado para ser multiplataforma, es compatible con Windows, macOS y Linux.\nOfrece una amplia gama de extensiones que permiten la integración con tecnologías específicas, como ASP.NET Core y Bootstrap.\nIdeal para desarrolladores que prefieren entornos de desarrollo más ligeros o que trabajan en proyectos que no requieren todas las características de un IDE completo."
   },
   {
     "objectID": "Apartados/Sprints.html",
@@ -95,7 +95,7 @@
     "href": "Apartados/MockUp.html#diseño-final",
     "title": "Mockup",
     "section": "Diseño Final",
-    "text": "Diseño Final"
+    "text": "Diseño Final\n\nMenu\n\n\nRegister\n\n\nLogin\n\n\nCrear Partida\n\n\nPartida\n\n\nPerfil"
   },
   {
     "objectID": "Apartados/DB.html",
@@ -116,7 +116,7 @@
     "href": "Apartados/DB.html#diseño-final-base-de-datos",
     "title": "DB",
     "section": "Diseño final Base de Datos",
-    "text": "Diseño final Base de Datos\nEn una segunda vuelta optamos por utilizar el framework (generador de base de datos a partir de modelo y migraciones pedir a eric)\n\n\n\nDiagrma Final 15/12/2023\n\n\n(comentar los cambios de las diferencias de la base de datos)"
+    "text": "Diseño final Base de Datos\nEn una segunda vuelta optamos por utilizar el framework (generador de base de datos a partir de modelo y migraciones desde el modelo del proyecto)\n\n\n\nDiagrma Final 15/12/2023\n\n\n(comentar los cambios de las diferencias de la base de datos)"
   },
   {
     "objectID": "about.html",
@@ -165,14 +165,14 @@
     "href": "Apartados/GeneralDesign.html",
     "title": "Diseño General",
     "section": "",
-    "text": "Diseño General\n\nPaleta de colores: [Incluir aquí la paleta de colores]\n\nUsaremos colores y estilos a la pagina del LoL (League of Legends), juego en el que basamos el MVP (Minimun Viable Project)\n\nLink a LoL\nValoramos que para destacar dado el tiempo disponible nos basaremos en el uso principalmente de botones o cards para que el usuario dispona de una mejor UX\nVenimos de un mundo de foros donde no se concretan equipos vs un entorno más visual y moderno"
+    "text": "Paleta de colores: [Incluir aquí la paleta de colores]\n\nUsaremos colores y estilos a la pagina del LoL (League of Legends), juego en el que basamos el MVP (Minimun Viable Project)\n\nLink a LoL\nValoramos que para destacar dado el tiempo disponible nos basaremos en el uso principalmente de botones o cards para que el usuario dispona de una mejor UX\nVenimos de un mundo de foros donde no se concretan equipos vs un entorno más visual y moderno"
   },
   {
     "objectID": "Apartados/ProductBacklog.html",
     "href": "Apartados/ProductBacklog.html",
     "title": "Product Backlog",
     "section": "",
-    "text": "Pendiente: Implementar tras hacer el mockup\nKanban"
+    "text": "Pendiente: Implementar tras hacer el mockup"
   },
   {
     "objectID": "Apartados/ProductBacklog.html#ingreso-y-registro",
@@ -229,5 +229,26 @@
     "title": "Uso de Quarto",
     "section": "",
     "text": "Comandos de quarto para actualizar y gestionar el proyecto.\n\n\nTerminal – quarto create project website\n\n\n\nrender project in current dir\n– quarto render\n\n\n\n– quarto preview\n\n\n\n– quarto publish gh-pages (y)"
+  },
+  {
+    "objectID": "Apartados/Tools.html#visual-studio-visual-studio-code",
+    "href": "Apartados/Tools.html#visual-studio-visual-studio-code",
+    "title": "Herramientas",
+    "section": "Visual Studio & Visual Studio Code",
+    "text": "Visual Studio & Visual Studio Code\n\nVisual Studio:\n\nEntorno de desarrollo integrado (IDE) de Microsoft.\nOfrece herramientas avanzadas para la creación, depuración y despliegue de aplicaciones.\nAdmite el desarrollo de aplicaciones en varios lenguajes, incluyendo C#, utilizado en ASP.NET Core.\nFacilita la integración con ASP.NET Core para un desarrollo eficiente y la gestión de proyectos.\n\nVisual Studio Code:\n\nEditor de código fuente liviano y de código abierto desarrollado por Microsoft.\nDiseñado para ser multiplataforma, es compatible con Windows, macOS y Linux.\nOfrece una amplia gama de extensiones que permiten la integración con tecnologías específicas, como ASP.NET Core y Bootstrap.\nIdeal para desarrolladores que prefieren entornos de desarrollo más ligeros o que trabajan en proyectos que no requieren todas las características de un IDE completo."
+  },
+  {
+    "objectID": "Apartados/GeneralDesign.html#diseño-de-la-aplicación",
+    "href": "Apartados/GeneralDesign.html#diseño-de-la-aplicación",
+    "title": "Diseño General",
+    "section": "Diseño de la aplicación",
+    "text": "Diseño de la aplicación\n\n\nMenu\n\n\nLogin\n\n\nRegister\n\n\nPerfil\n\n\nPartida"
+  },
+  {
+    "objectID": "Apartados/Comentaries.html",
+    "href": "Apartados/Comentaries.html",
+    "title": "Comentarios",
+    "section": "",
+    "text": "Supimos reaccionar en el momento de tomar la iniciativa y desatascar el proceso de ejecución del proyecto. La falta de planificación o mala calidad de esta en la primera etapa del proyecto lastro el rápido avance.\nFalta de comunicación en las primeraas etapas del proyecto, la deficiencia surgida de motivaciones personales e indisposiciones no ayudo a que la comunicación fluiese de manera correcta y fluida.\nSe puede destacar que el alcance del proyecto no fue bien calibrado dado el tiempo disponible y en pos de disponer del MVP se recortaron funcionalidades, afectando así al diseño de la propia web siendo la parte más afectada la base de datos."
   }
 ]
